@@ -1,175 +1,180 @@
-<div align="center">
-
-# Mohamed Ayman
-
-### CS & AI Student · Junior Front-End Developer
-
-Building interfaces, learning deeply, and turning ideas into real projects.
-
-<br>
-
-<a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5">
-</a>
-<a href="https://github.com/zcvbnklpoiu-netizen">
-  <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5">
-</a>
-<a href="https://www.instagram.com/m47389648/">
-  <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=58d6c5">
-</a>
-
-</div>
-
----
-
-# About Me
-
-I'm **Mohamed Ayman**, a Computer Science & Artificial Intelligence student and Junior Front-End Developer.
-
-I enjoy turning ideas into responsive and user-focused interfaces, while continuously improving my problem-solving and development skills through practical projects.
-
-My main focus is **Front-End Development with React.js and JavaScript**, while also strengthening my programming foundations with **C++, OOP, and Problem Solving**.
-
-I'm also exploring **Cyber Security** as another area of technical growth.
-
-> I don't want to stop at learning technologies.
-> I want to understand how things work, build real projects, and keep improving.
-
----
-
-# What I Build
-
-<div align="center">
-
-### 🎨 Interfaces
-Responsive and modern web experiences.
-
-### ⚛️ React Applications
-Reusable components, routing, state management, and interactive UI.
-
-### 🧠 Problem Solving
-Building a stronger programming foundation through C++ and OOP.
-
-### 🔐 Exploring Security
-Currently developing my knowledge in Cyber Security.
-
-</div>
-
----
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=for-the-badge&logo=cplusplus&logoColor=58d6c5">
-
-</p>
-
-## Front-End
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React.js-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/React_Router-0b1220?style=for-the-badge&logo=reactrouter&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/Context_API-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/Vite-0b1220?style=for-the-badge&logo=vite&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/Responsive_Design-0b1220?style=for-the-badge&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/Local_Storage-0b1220?style=for-the-badge&logo=googlechrome&logoColor=58d6c5">
-
-</p>
-
-## Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/OOP-0b1220?style=for-the-badge&logoColor=58d6c5">
-<img src="https://img.shields.io/badge/Problem_Solving-0b1220?style=for-the-badge&logoColor=58d6c5">
-
-</p>
-
----
-
 # Featured Projects
 
-> A selection of real projects I've built while developing my Front-End skills.
+<div align="center">
 
 ## 🛒 React E-Commerce
 
-**React.js · JavaScript · React Router · Context API · Vite**
+<p>
+A responsive React e-commerce experience with routing, Context API state management, cart and wishlist flows, checkout UI, and a structured front-end architecture.
+</p>
 
-A responsive e-commerce interface focused on reusable components, routing, product browsing, cart and wishlist interactions, and a structured front-end experience.
+<img src="YOUR_ECOMMERCE_SCREENSHOT_URL" width="95%" alt="React E-Commerce Preview">
 
-**[Live Demo](https://zcvbnklpoiu-netizen.github.io/E-commerce/)**  
-**[Repository](https://github.com/zcvbnklpoiu-netizen/E-commerce)**
+<br><br>
+
+<img src="https://img.shields.io/badge/React.js-61%25-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/JavaScript-24%25-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/CSS-15%25-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5">
+
+<br><br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-58d6c5?style=for-the-badge&labelColor=0b1220">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">
+<img src="https://img.shields.io/badge/💻%20VIEW%20CODE-f4f7fb?style=for-the-badge&labelColor=0b1220">
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🏋️ Peak Fitness
 
-**HTML5 · CSS3 · JavaScript · Responsive Design**
+<p>
+A modern responsive fitness website with membership plans, reviews, animations, mobile navigation, and a front-end registration experience.
+</p>
 
-A modern fitness website with membership plans, reviews, responsive navigation, animations, and a front-end registration experience.
+<img src="YOUR_GYM_SCREENSHOT_URL" width="95%" alt="Peak Fitness Preview">
 
-**[Live Demo](https://zcvbnklpoiu-netizen.github.io/gym/)**  
-**[Repository](https://github.com/zcvbnklpoiu-netizen/gym)**
+<br><br>
+
+<img src="https://img.shields.io/badge/CSS-52%25-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/HTML-28%25-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/JavaScript-20%25-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5">
+
+<br><br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/gym/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-58d6c5?style=for-the-badge&labelColor=0b1220">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/gym">
+<img src="https://img.shields.io/badge/💻%20VIEW%20CODE-f4f7fb?style=for-the-badge&labelColor=0b1220">
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ☕ Caffeine Cove
 
-**HTML5 · CSS3 · JavaScript · Responsive Design**
+<p>
+A responsive coffee shop experience focused on visual presentation, product sections, navigation, hover effects, reveal animations, and a polished interface.
+</p>
 
-A coffee shop website focused on visual presentation, responsive navigation, product sections, hover interactions, reveal effects, and a polished browsing experience.
+<img src="YOUR_CAFFEINE_SCREENSHOT_URL" width="95%" alt="Caffeine Cove Preview">
 
-**[Live Demo](https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/)**  
-**[Repository](https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove)**
+<br><br>
+
+<img src="https://img.shields.io/badge/CSS-58%25-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/HTML-27%25-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/JavaScript-15%25-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5">
+
+<br><br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-58d6c5?style=for-the-badge&labelColor=0b1220">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">
+<img src="https://img.shields.io/badge/💻%20VIEW%20CODE-f4f7fb?style=for-the-badge&labelColor=0b1220">
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ⌚ VELORA
 
-**HTML5 · CSS3 · JavaScript**
+<p>
+A luxury watch showcase focused on premium visual presentation, responsive layouts, product galleries, hover interactions, and smooth UI animation.
+</p>
 
-A luxury watch showcase built around visual presentation, responsive layouts, product galleries, hover interactions, and smooth UI effects.
+<img src="YOUR_VELORA_SCREENSHOT_URL" width="95%" alt="VELORA Preview">
 
-**[Live Demo](https://zcvbnklpoiu-netizen.github.io/VELORA/)**  
-**[Repository](https://github.com/zcvbnklpoiu-netizen/VELORA)**
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-44%25-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/CSS-46%25-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/JavaScript-10%25-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5">
+
+<br><br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-58d6c5?style=for-the-badge&labelColor=0b1220">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
+<img src="https://img.shields.io/badge/💻%20VIEW%20CODE-f4f7fb?style=for-the-badge&labelColor=0b1220">
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🍎 Apple Store
 
-**HTML5 · CSS3 · JavaScript · Responsive Design**
+<p>
+An Apple-inspired responsive store interface with product sections, sticky navigation, scroll effects, and polished image presentation.
+</p>
 
-An Apple-inspired store interface featuring product sections, sticky navigation, visual presentation, and scroll-based interactions.
+<img src="YOUR_APPLE_SCREENSHOT_URL" width="95%" alt="Apple Store Preview">
 
-**[Live Demo](https://zcvbnklpoiu-netizen.github.io/Apple-store/)**  
-**[Repository](https://github.com/zcvbnklpoiu-netizen/Apple-store)**
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-47%25-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/CSS-43%25-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/JavaScript-10%25-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5">
+
+<br><br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-58d6c5?style=for-the-badge&labelColor=0b1220">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
+<img src="https://img.shields.io/badge/💻%20VIEW%20CODE-f4f7fb?style=for-the-badge&labelColor=0b1220">
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌿 Al-Quds Pergolas
 
-**HTML5 · CSS3 · JavaScript · Responsive Design**
+<p>
+A responsive business showcase with project galleries, sticky navigation, reveal effects, hero motion, and user-friendly navigation.
+</p>
 
-A responsive business showcase with project galleries, sticky navigation, reveal effects, hero movement, and user-friendly navigation.
+<img src="YOUR_PERGOLAT_SCREENSHOT_URL" width="95%" alt="Al-Quds Pergolas Preview">
 
-**[Live Demo](https://zcvbnklpoiu-netizen.github.io/Pergolat/)**  
-**[Repository](https://github.com/zcvbnklpoiu-netizen/Pergolat)**
+<br><br>
 
----
+<img src="https://img.shields.io/badge/CSS-61%25-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/HTML-29%25-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5">
+<img src="https://img.shields.io/badge/JavaScript-10%25-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5">
 
-# Currently Growing
+<br><br>
 
-```text
-Frontend        ████████████████████  React · JavaScript · UI
-Programming     ███████████████░░░░░  C++ · OOP · Problem Solving
-Cyber Security  ██████████░░░░░░░░░░  Learning & Exploring
+<a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-58d6c5?style=for-the-badge&labelColor=0b1220">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
+<img src="https://img.shields.io/badge/💻%20VIEW%20CODE-f4f7fb?style=for-the-badge&labelColor=0b1220">
+</a>
+
+</div>Cyber Security  ██████████░░░░░░░░░░  Learning & Exploring
 Projects        ███████████████████░  Building & Improving
