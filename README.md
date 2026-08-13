@@ -2,9 +2,9 @@
 
 # Mohamed Ayman
 
-### Junior Front-End Developer | React.js & JavaScript
+### CS & AI Student • Junior Front-End Developer • React.js & JavaScript
 
-Computer Science & AI Student building real front-end projects, learning continuously, and improving through practical React and web development work.
+Building responsive web experiences, learning continuously, and improving through practical React and JavaScript projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5)](https://www.linkedin.com/in/mohamed-ayman-b78255373)
 [![GitHub](https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5)](https://github.com/zcvbnklpoiu-netizen)
