@@ -2,11 +2,11 @@
 
 # Mohamed Ayman
 
-### Computer Science & AI Student · Junior Front-End Developer
+### Junior Front-End Developer · React Developer
 
-I build responsive, user-focused interfaces with **React.js**, **JavaScript**, and modern front-end practices.
+Computer Science & AI Student building responsive, user-focused interfaces with **React.js**, **JavaScript**, and modern front-end practices.
 
-[Portfolio](https://zcvbnklpoiu-netizen.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohamed-ayman-b78255373) · [GitHub](https://github.com/zcvbnklpoiu-netizen)
+[LinkedIn](https://www.linkedin.com/in/mohamed-ayman-b78255373) · [GitHub](https://github.com/zcvbnklpoiu-netizen)
 
 </div>
 
@@ -18,9 +18,9 @@ I am a Computer Science & AI Student focused on Front-End Development. I enjoy t
 
 I am currently looking for a **Front-End Internship** or **Junior Front-End Developer** opportunity where I can contribute, learn from an experienced team, and keep building useful products.
 
-## Core skills
+## Confirmed skills
 
-### Front-end
+### Front-end core
 
 ![React.js](https://img.shields.io/badge/React.js-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5) ![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5) ![HTML5](https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5) ![CSS3](https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5) ![Vite](https://img.shields.io/badge/Vite-0b1220?style=for-the-badge&logo=vite&logoColor=58d6c5)
 
@@ -30,7 +30,7 @@ I am currently looking for a **Front-End Internship** or **Junior Front-End Deve
 
 `C++` · `OOP` · `Problem Solving`
 
-## Featured projects
+## Featured repositories
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
