@@ -84,7 +84,7 @@ Dynamic cards below are generated from the account's live GitHub activity. No st
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=zcvbnklpoiu-netizen&hide_border=true&background=0B1220&ring=58D6C5&fire=58D6C5&currStreakLabel=F4F7FB&sideLabels=9AA8BD&currStreakNum=F4F7FB&sideNums=F4F7FB&dates=9AA8BD" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zcvbnklpoiu-netizen&theme=dark&hide_border=true&background=0B1220&ring=58D6C5&fire=58D6C5&currStreakLabel=F4F7FB" alt="GitHub contribution streak" />
 
 <br />
 
