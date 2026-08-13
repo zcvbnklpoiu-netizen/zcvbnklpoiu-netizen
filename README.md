@@ -84,11 +84,11 @@ Dynamic cards below are generated from the account's live GitHub activity. No st
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zcvbnklpoiu-netizen&theme=dark&hide_border=true&background=0B1220&ring=58D6C5&fire=58D6C5&currStreakLabel=F4F7FB" alt="GitHub contribution streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="96%" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="96%" />
+[View live contribution activity on GitHub](https://github.com/zcvbnklpoiu-netizen)
 
 </div>
 
