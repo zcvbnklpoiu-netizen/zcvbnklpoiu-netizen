@@ -11,11 +11,11 @@ Building real projects, improving my skills, and turning ideas into functional w
 <br>
 
 <a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/zcvbnklpoiu-netizen">
-  <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub">
 </a>
 
 </div>
@@ -40,12 +40,12 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 <div align="center">
 
-| 🎨 | **Responsive UI**           | Building clean and responsive interfaces                  |
-| -- | --------------------------- | --------------------------------------------------------- |
-| ⚛️ | **React Development**       | Components, routing, Context API, interactive experiences |
-| 💻 | **Web Development**         | HTML5, CSS3, JavaScript, Vite                             |
-| 🧠 | **Programming Foundations** | C++, OOP, Problem Solving                                 |
-| 🔐 | **Cyber Security**          | Currently learning and exploring                          |
+| 🎨 | **Responsive UI** | Building clean and responsive interfaces |
+|---|---|---|
+| ⚛️ | **React Development** | Components, routing, Context API, interactive experiences |
+| 💻 | **Web Development** | HTML5, CSS3, JavaScript, Vite |
+| 🧠 | **Programming Foundations** | C++, OOP, Problem Solving |
+| 🔐 | **Cyber Security** | Currently learning and exploring |
 
 </div>
 
@@ -101,9 +101,7 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 ---
 
-# 🚀 Featured Projects
-
-> A selection of real projects I've built while developing my Front-End skills.
+## 🚀 Featured Projects
 
 ---
 
@@ -115,21 +113,47 @@ I learn mainly by building real projects, solving problems, experimenting with i
   <img
     src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/"
     width="96%"
-    alt="React E-Commerce Preview">
+    alt="React E-Commerce Preview"
+  >
 </a>
 
 ### React.js • JavaScript • React Router • Context API • Vite • Local Storage
 
-A responsive e-commerce interface focused on reusable components, routing, product browsing, cart and wishlist interactions, checkout UI, and client-side state.
+A responsive e-commerce interface focused on reusable components, routing, cart and wishlist interactions, checkout UI, and client-side state.
+
+### Languages
+
+<table>
+<tr>
+<td width="33%">
+
+**JavaScript**  
+██████████████████░░ **90%**
+
+</td>
+<td width="33%">
+
+**CSS**  
+████░░░░░░░░░░░░░░░░ **10%**
+
+</td>
+<td width="33%">
+
+**HTML**  
+— **0%**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
 
 <a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
 
 </div>
@@ -144,21 +168,47 @@ A responsive e-commerce interface focused on reusable components, routing, produ
   <img
     src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/gym/"
     width="96%"
-    alt="Peak Fitness Preview">
+    alt="Peak Fitness Preview"
+  >
 </a>
 
-### HTML5 • CSS3 • JavaScript • Responsive Design
+### Front-End Development • Responsive Design
 
-A modern fitness website featuring membership plans, reviews, responsive navigation, animations, and a front-end registration experience.
+Modern fitness website with membership plans, reviews, navigation, animations, and registration UI.
+
+### Languages
+
+<table>
+<tr>
+<td width="33%">
+
+**CSS**  
+████████████████░░░░ **80%**
+
+</td>
+<td width="33%">
+
+**HTML**  
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**  
+█░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://zcvbnklpoiu-netizen.github.io/gym/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
 
 <a href="https://github.com/zcvbnklpoiu-netizen/gym">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
 
 </div>
@@ -173,21 +223,47 @@ A modern fitness website featuring membership plans, reviews, responsive navigat
   <img
     src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/"
     width="96%"
-    alt="Caffeine Cove Preview">
+    alt="Caffeine Cove Preview"
+  >
 </a>
 
-### HTML5 • CSS3 • JavaScript • Responsive Design
+### Responsive Web Design • UI Animation • Interactive Effects
 
-A coffee shop showcase focused on responsive navigation, product presentation, reveal motion, parallax, and interactive hover effects.
+Coffee shop interface with product presentation, responsive navigation, reveal motion, parallax, and hover effects.
+
+### Languages
+
+<table>
+<tr>
+<td width="33%">
+
+**CSS**  
+████████████████░░░░ **80%**
+
+</td>
+<td width="33%">
+
+**HTML**  
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**  
+█░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
 
 <a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
 
 </div>
@@ -202,21 +278,47 @@ A coffee shop showcase focused on responsive navigation, product presentation, r
   <img
     src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/VELORA/"
     width="96%"
-    alt="VELORA Preview">
+    alt="VELORA Preview"
+  >
 </a>
 
-### HTML5 • CSS3 • JavaScript
+### Luxury UI • Responsive Layout • Visual Animation
 
-A luxury watch showcase focused on responsive layouts, product galleries, hover interactions, and smooth visual presentation.
+Luxury watch showcase with galleries, responsive layouts, hover interactions, and smooth visual effects.
+
+### Languages
+
+<table>
+<tr>
+<td width="33%">
+
+**CSS**  
+████████████████░░░░ **80%**
+
+</td>
+<td width="33%">
+
+**HTML**  
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**  
+█░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
 
 <a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
 
 </div>
@@ -231,21 +333,47 @@ A luxury watch showcase focused on responsive layouts, product galleries, hover 
   <img
     src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Apple-store/"
     width="96%"
-    alt="Apple Store Preview">
+    alt="Apple Store Preview"
+  >
 </a>
 
-### HTML5 • CSS3 • JavaScript • Responsive Design
+### Responsive Store UI • Product Presentation • Scroll Effects
 
-An Apple-inspired store interface with product sections, sticky navigation, scroll effects, and polished image presentation.
+Apple-inspired storefront with product sections, sticky navigation, scroll reveal, and responsive presentation.
+
+### Languages
+
+<table>
+<tr>
+<td width="33%">
+
+**HTML**  
+████████████░░░░░░░░ **45%**
+
+</td>
+<td width="33%">
+
+**CSS**  
+████████████░░░░░░░░ **45%**
+
+</td>
+<td width="33%">
+
+**JavaScript**  
+██░░░░░░░░░░░░░░░░░░ **10%**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
 
 <a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
 
 </div>
@@ -260,21 +388,47 @@ An Apple-inspired store interface with product sections, sticky navigation, scro
   <img
     src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Pergolat/"
     width="96%"
-    alt="Al-Quds Pergolas Preview">
+    alt="Al-Quds Pergolas Preview"
+  >
 </a>
 
-### HTML5 • CSS3 • JavaScript • Responsive Design
+### Business Showcase • Responsive Design • Interactive UI
 
-A responsive business showcase with project galleries, sticky navigation, reveal effects, hero motion, and user-friendly navigation.
+Responsive business showcase with project galleries, sticky navigation, reveal effects, hero motion, and smooth navigation.
+
+### Languages
+
+<table>
+<tr>
+<td width="33%">
+
+**CSS**  
+████████████████░░░░ **80%**
+
+</td>
+<td width="33%">
+
+**HTML**  
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**  
+█░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
 
 <a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
 
 </div>
@@ -285,12 +439,12 @@ A responsive business showcase with project galleries, sticky navigation, reveal
 
 <div align="center">
 
-| Area              | Current Focus                         |
-| ----------------- | ------------------------------------- |
-| ⚛️ Front-End      | React.js • JavaScript • Responsive UI |
-| 🧠 Programming    | C++ • OOP • Problem Solving           |
-| 🔐 Cyber Security | Learning & Exploring                  |
-| 🚀 Projects       | Building • Improving • Documenting    |
+| Area | Current Focus |
+|---|---|
+| ⚛️ Front-End | React.js • JavaScript • Responsive UI |
+| 🧠 Programming | C++ • OOP • Problem Solving |
+| 🔐 Cyber Security | Learning & Exploring |
+| 🚀 Projects | Building • Improving • Documenting |
 
 </div>
 
@@ -301,21 +455,21 @@ A responsive business showcase with project galleries, sticky navigation, reveal
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5"
-height="175"
-alt="GitHub Statistics">
+  src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5"
+  height="175"
+  alt="GitHub Statistics">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb"
-height="175"
-alt="Top Languages">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb"
+  height="175"
+  alt="Top Languages">
 
 <br><br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity"
-width="96%"
-alt="GitHub Contribution Activity">
+  src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  width="96%"
+  alt="GitHub Contribution Activity">
 
 </div>
 
