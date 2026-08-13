@@ -85,6 +85,7 @@ Dynamic cards below are generated from the account's live GitHub activity. No st
 ## Connect
 
 <p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=58d6c5" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mohamed-ayman-b78255373"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn" /></a>
   <a href="https://github.com/zcvbnklpoiu-netizen"><img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub" /></a>
   <a href="https://www.tiktok.com/@mohamed11e19"><img src="https://img.shields.io/badge/TikTok-0b1220?style=for-the-badge&logo=tiktok&logoColor=58d6c5" alt="TikTok" /></a>
