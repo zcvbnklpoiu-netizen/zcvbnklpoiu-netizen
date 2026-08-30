@@ -1,10 +1,24 @@
+<div align="center">
+
 # Mohamed Ayman
 
 ### CS & AI Student • Junior Front-End Developer
 
-**⚛️ React.js • ▲ Next.js • 🟨 JavaScript • 🎨 Tailwind CSS • 📱 Responsive Web Development**
+**React.js • Next.js • JavaScript • Tailwind CSS • Responsive Web Development**
 
 Building real projects, improving my skills, and turning ideas into functional web experiences.
+
+<br>
+
+<a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
+<img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen">
+<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
@@ -24,9 +38,10 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 # ⚡ What I Do
 
-|    | Area                        | Description                                               |
-| -- | --------------------------- | --------------------------------------------------------- |
+<div align="center">
+
 | 🎨 | **Responsive UI**           | Building clean and responsive interfaces                  |
+| -- | --------------------------- | --------------------------------------------------------- |
 | ⚛️ | **React Development**       | Components, routing, Context API, interactive experiences |
 | ▲  | **Next.js Development**     | App Router, dynamic routes, layouts, reusable components  |
 | 🎨 | **Tailwind CSS**            | Modern responsive styling and UI development              |
@@ -34,29 +49,61 @@ I learn mainly by building real projects, solving problems, experimenting with i
 | 🧠 | **Programming Foundations** | C++, OOP, Problem Solving                                 |
 | 🔐 | **Cyber Security**          | Currently learning and exploring                          |
 
+</div>
+
 ---
 
 # 🛠️ Tech Stack
 
 ## Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5" alt="HTML5">
+
+<img src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5" alt="CSS3">
+
+<img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=for-the-badge&logo=cplusplus&logoColor=58d6c5" alt="C++">
+
+</p>
 
 ## Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-0b1220?style=for-the-badge&logo=next.js&logoColor=58d6c5" alt="Next.js">
+
+<img src="https://img.shields.io/badge/React.js-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5" alt="React.js">
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=58d6c5" alt="Tailwind CSS">
+
+<img src="https://img.shields.io/badge/React_Router-0b1220?style=for-the-badge&logo=reactrouter&logoColor=58d6c5" alt="React Router">
+
+<img src="https://img.shields.io/badge/Context_API-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5" alt="Context API">
+
+<img src="https://img.shields.io/badge/Vite-0b1220?style=for-the-badge&logo=vite&logoColor=58d6c5" alt="Vite">
+
+<img src="https://img.shields.io/badge/Responsive_Design-0b1220?style=for-the-badge&logoColor=58d6c5" alt="Responsive Design">
+
+<img src="https://img.shields.io/badge/Local_Storage-0b1220?style=for-the-badge&logo=googlechrome&logoColor=58d6c5" alt="Local Storage">
+
+</p>
 
 ## Tools & Foundations
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=58d6c5" alt="Git">
+
+<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub">
+
+<img src="https://img.shields.io/badge/OOP-0b1220?style=for-the-badge&logoColor=58d6c5" alt="OOP">
+
+<img src="https://img.shields.io/badge/Problem_Solving-0b1220?style=for-the-badge&logoColor=58d6c5" alt="Problem Solving">
+
+</p>
 
 ---
 
@@ -66,145 +113,380 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 ## 🩺 Appointment App
 
-### ⚛️ React.js • ▲ Next.js • 🎨 Tailwind CSS • 📱 Responsive Design
+<div align="center">
 
-A responsive doctor appointment platform with doctor search, doctor profiles, appointment booking, responsive navigation, and a modern user interface.
+<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/appointment-app/"
+    width="96%"
+    alt="Appointment App Preview"
+  >
+</a>
 
-### 🛠️ Technologies
+### Next.js • React • Tailwind CSS • Responsive Design
 
-**⚛️ React.js**
-███████████░░░░░░░░░ **55%**
+A responsive doctor appointment platform with doctor search, doctor profiles, appointment booking, responsive navigation, and modern user interface.
 
-**▲ Next.js**
-██████░░░░░░░░░░░░░░ **25%**
+### Technologies
 
-**🎨 Tailwind CSS**
-████░░░░░░░░░░░░░░░░ **20%**
+**Next.js • React • JavaScript • Tailwind CSS • Responsive Design**
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
+  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
 ## 🛒 React E-Commerce
 
-### ⚛️ React.js • 🟨 JavaScript • 🔀 React Router • ⚡ Vite • 💾 Local Storage
+<div align="center">
+
+<a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/"
+    width="96%"
+    alt="React E-Commerce Preview"
+  >
+</a>
+
+### React.js • JavaScript • React Router • Context API • Vite • Local Storage
 
 A responsive e-commerce interface focused on reusable components, routing, cart and wishlist interactions, checkout UI, and client-side state.
 
-### 🛠️ Technologies
+### Languages
 
-**🟨 JavaScript**
+<table>
+<tr>
+<td width="33%">
+
+**JavaScript**
 ██████████████████░░ **90%**
 
-**🎨 CSS**
-██░░░░░░░░░░░░░░░░░░ **10%**
+</td>
+<td width="33%">
+
+**CSS**
+████░░░░░░░░░░░░░░░░ **10%**
+
+</td>
+<td width="33%">
 
 **HTML**
 — **0%**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
 ## 🏋️ Peak Fitness
 
-### 💻 Front-End Development • 📱 Responsive Design • ✨ Interactive UI
+<div align="center">
+
+<a href="https://zcvbnklpoiu-netizen.github.io/gym/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/gym/"
+    width="96%"
+    alt="Peak Fitness Preview"
+  >
+</a>
+
+### Front-End Development • Responsive Design
 
 Modern fitness website with membership plans, reviews, navigation, animations, and registration UI.
 
-### 🛠️ Technologies
+### Languages
 
-**🎨 CSS**
+<table>
+<tr>
+<td width="33%">
+
+**CSS**
 ████████████████░░░░ **80%**
 
-**HTML**
-███░░░░░░░░░░░░░░░░░ **15%**
+</td>
+<td width="33%">
 
-**🟨 JavaScript**
+**HTML**
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/gym/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/gym">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
 ## ☕ Caffeine Cove
 
-### 🎨 Responsive Web Design • ✨ UI Animation • 🖱️ Interactive Effects
+<div align="center">
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/"
+    width="96%"
+    alt="Caffeine Cove Preview"
+  >
+</a>
+
+### Responsive Web Design • UI Animation • Interactive Effects
 
 Coffee shop interface with product presentation, responsive navigation, reveal motion, parallax, and hover effects.
 
-### 🛠️ Technologies
+### Languages
 
-**🎨 CSS**
+<table>
+<tr>
+<td width="33%">
+
+**CSS**
 ████████████████░░░░ **80%**
 
-**HTML**
-███░░░░░░░░░░░░░░░░░ **15%**
+</td>
+<td width="33%">
 
-**🟨 JavaScript**
+**HTML**
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
 ## ⌚ VELORA
 
-### ✨ Luxury UI • 📱 Responsive Layout • 🎞️ Visual Animation
+<div align="center">
+
+<a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/VELORA/"
+    width="96%"
+    alt="VELORA Preview"
+  >
+</a>
+
+### Luxury UI • Responsive Layout • Visual Animation
 
 Luxury watch showcase with galleries, responsive layouts, hover interactions, and smooth visual effects.
 
-### 🛠️ Technologies
+### Languages
 
-**🎨 CSS**
+<table>
+<tr>
+<td width="33%">
+
+**CSS**
 ████████████████░░░░ **80%**
 
-**HTML**
-███░░░░░░░░░░░░░░░░░ **15%**
+</td>
+<td width="33%">
 
-**🟨 JavaScript**
+**HTML**
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
 ## 🍎 Apple Store
 
-### 🍎 Product UI • 📱 Responsive Design • ✨ Scroll Effects
+<div align="center">
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Apple-store/"
+    width="96%"
+    alt="Apple Store Preview"
+  >
+</a>
+
+### Responsive Store UI • Product Presentation • Scroll Effects
 
 Apple-inspired storefront with product sections, sticky navigation, scroll reveal, and responsive presentation.
 
-### 🛠️ Technologies
+### Languages
+
+<table>
+<tr>
+<td width="33%">
 
 **HTML**
-█████████░░░░░░░░░░░ **45%**
+████████████░░░░░░░░ **45%**
 
-**🎨 CSS**
-█████████░░░░░░░░░░░ **45%**
+</td>
+<td width="33%">
 
-**🟨 JavaScript**
-██░░░░░░░░░░░░░░░░░░░ **10%**
+**CSS**
+████████████░░░░░░░░ **45%**
+
+</td>
+<td width="33%">
+
+**JavaScript**
+██░░░░░░░░░░░░░░░░░░ **10%**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
 ## 🌿 Al-Quds Pergolas
 
-### 🏠 Business Showcase • 📱 Responsive Design • ✨ Interactive UI
+<div align="center">
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Pergolat/"
+    width="96%"
+    alt="Al-Quds Pergolas Preview"
+  >
+</a>
+
+### Business Showcase • Responsive Design • Interactive UI
 
 Responsive business showcase with project galleries, sticky navigation, reveal effects, hero motion, and smooth navigation.
 
-### 🛠️ Technologies
+### Languages
 
-**🎨 CSS**
+<table>
+<tr>
+<td width="33%">
+
+**CSS**
 ████████████████░░░░ **80%**
 
-**HTML**
-███░░░░░░░░░░░░░░░░░ **15%**
+</td>
+<td width="33%">
 
-**🟨 JavaScript**
+**HTML**
+████░░░░░░░░░░░░░░░░ **15%**
+
+</td>
+<td width="33%">
+
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
 # 🌱 Currently Growing
 
-| Area                  | Current Focus                                                  |
-| --------------------- | -------------------------------------------------------------- |
-| ⚛️ **Front-End**      | React.js • Next.js • JavaScript • Tailwind CSS • Responsive UI |
-| 🧠 **Programming**    | C++ • OOP • Problem Solving                                    |
-| 🔐 **Cyber Security** | Learning & Exploring                                           |
-| 🚀 **Projects**       | Building • Improving • Documenting                             |
+<div align="center">
+
+| Area              | Current Focus                                                  |
+| ----------------- | -------------------------------------------------------------- |
+| ⚛️ Front-End      | React.js • Next.js • JavaScript • Tailwind CSS • Responsive UI |
+| 🧠 Programming    | C++ • OOP • Problem Solving                                    |
+| 🔐 Cyber Security | Learning & Exploring                                           |
+| 🚀 Projects       | Building • Improving • Documenting                             |
+
+</div>
 
 ---
 
@@ -212,9 +494,22 @@ Responsive business showcase with project galleries, sticky navigation, reveal e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img
+src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5"
+height="175"
+alt="GitHub Statistics">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb"
+height="175"
+alt="Top Languages">
+
+<br><br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity"
+width="96%"
+alt="GitHub Contribution Activity">
 
 </div>
 
@@ -230,6 +525,32 @@ I'm working toward becoming a stronger Front-End Developer while building a soli
 
 # 📬 Connect With Me
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
+  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/m47389648/">
+  <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=58d6c5" alt="Instagram">
+</a>
+
+<a href="https://www.tiktok.com/@mohamed11e19">
+  <img src="https://img.shields.io/badge/TikTok-0b1220?style=for-the-badge&logo=tiktok&logoColor=58d6c5" alt="TikTok">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100084846410792">
+  <img src="https://img.shields.io/badge/Facebook-0b1220?style=for-the-badge&logo=facebook&logoColor=58d6c5" alt="Facebook">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### Thanks for visiting my profile 👋
 
 **Always learning. Always building.**
+
+</div>
