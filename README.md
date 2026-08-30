@@ -1,10 +1,12 @@
+
+
 <div align="center">
 
 # Mohamed Ayman
 
 ### CS & AI Student • Junior Front-End Developer
 
-**React.js • JavaScript • Responsive Web Development**
+**React.js • Next.js • JavaScript • Tailwind CSS • Responsive Web Development**
 
 Building real projects, improving my skills, and turning ideas into functional web experiences.
 
@@ -26,7 +28,7 @@ Building real projects, improving my skills, and turning ideas into functional w
 
 I'm **Mohamed Ayman**, a **Computer Science & Artificial Intelligence student** and **Junior Front-End Developer** focused on building responsive and user-focused web interfaces.
 
-My main development path is **Front-End Development**, especially **React.js and JavaScript**, while I continue strengthening my programming foundation through **C++, OOP, and Problem Solving**.
+My main development path is **Front-End Development**, especially **React.js, Next.js, JavaScript, and Tailwind CSS**, while I continue strengthening my programming foundation through **C++, OOP, and Problem Solving**.
 
 I'm also exploring **Cyber Security** as another area of technical growth.
 
@@ -40,12 +42,14 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 <div align="center">
 
-| 🎨 | **Responsive UI** | Building clean and responsive interfaces |
-|---|---|---|
-| ⚛️ | **React Development** | Components, routing, Context API, interactive experiences |
-| 💻 | **Web Development** | HTML5, CSS3, JavaScript, Vite |
-| 🧠 | **Programming Foundations** | C++, OOP, Problem Solving |
-| 🔐 | **Cyber Security** | Currently learning and exploring |
+| 🎨 | **Responsive UI**           | Building clean and responsive interfaces                  |
+| -- | --------------------------- | --------------------------------------------------------- |
+| ⚛️ | **React Development**       | Components, routing, Context API, interactive experiences |
+| ▲  | **Next.js Development**     | App Router, dynamic routes, layouts, reusable components  |
+| 🎨 | **Tailwind CSS**            | Modern responsive styling and UI development              |
+| 💻 | **Web Development**         | HTML5, CSS3, JavaScript, Vite                             |
+| 🧠 | **Programming Foundations** | C++, OOP, Problem Solving                                 |
+| 🔐 | **Cyber Security**          | Currently learning and exploring                          |
 
 </div>
 
@@ -71,7 +75,11 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Next.js-0b1220?style=for-the-badge&logo=next.js&logoColor=58d6c5" alt="Next.js">
+
 <img src="https://img.shields.io/badge/React.js-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5" alt="React.js">
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=58d6c5" alt="Tailwind CSS">
 
 <img src="https://img.shields.io/badge/React_Router-0b1220?style=for-the-badge&logo=reactrouter&logoColor=58d6c5" alt="React Router">
 
@@ -101,7 +109,41 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+---
+
+## 🩺 Appointment App
+
+<div align="center">
+
+<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
+  <img
+    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/appointment-app/"
+    width="96%"
+    alt="Appointment App Preview"
+  >
+</a>
+
+### Next.js • React • Tailwind CSS • Responsive Design
+
+A responsive doctor appointment platform with doctor search, doctor profiles, appointment booking, responsive navigation, and modern user interface.
+
+### Technologies
+
+**Next.js • React • JavaScript • Tailwind CSS • Responsive Design**
+
+<br>
+
+<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
+</a>
+
+<a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
+  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+</a>
+
+</div>
 
 ---
 
@@ -127,19 +169,19 @@ A responsive e-commerce interface focused on reusable components, routing, cart 
 <tr>
 <td width="33%">
 
-**JavaScript**  
+**JavaScript**
 ██████████████████░░ **90%**
 
 </td>
 <td width="33%">
 
-**CSS**  
+**CSS**
 ████░░░░░░░░░░░░░░░░ **10%**
 
 </td>
 <td width="33%">
 
-**HTML**  
+**HTML**
 — **0%**
 
 </td>
@@ -182,19 +224,19 @@ Modern fitness website with membership plans, reviews, navigation, animations, a
 <tr>
 <td width="33%">
 
-**CSS**  
+**CSS**
 ████████████████░░░░ **80%**
 
 </td>
 <td width="33%">
 
-**HTML**  
+**HTML**
 ████░░░░░░░░░░░░░░░░ **15%**
 
 </td>
 <td width="33%">
 
-**JavaScript**  
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
 
 </td>
@@ -237,19 +279,19 @@ Coffee shop interface with product presentation, responsive navigation, reveal m
 <tr>
 <td width="33%">
 
-**CSS**  
+**CSS**
 ████████████████░░░░ **80%**
 
 </td>
 <td width="33%">
 
-**HTML**  
+**HTML**
 ████░░░░░░░░░░░░░░░░ **15%**
 
 </td>
 <td width="33%">
 
-**JavaScript**  
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
 
 </td>
@@ -292,19 +334,19 @@ Luxury watch showcase with galleries, responsive layouts, hover interactions, an
 <tr>
 <td width="33%">
 
-**CSS**  
+**CSS**
 ████████████████░░░░ **80%**
 
 </td>
 <td width="33%">
 
-**HTML**  
+**HTML**
 ████░░░░░░░░░░░░░░░░ **15%**
 
 </td>
 <td width="33%">
 
-**JavaScript**  
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
 
 </td>
@@ -347,19 +389,19 @@ Apple-inspired storefront with product sections, sticky navigation, scroll revea
 <tr>
 <td width="33%">
 
-**HTML**  
+**HTML**
 ████████████░░░░░░░░ **45%**
 
 </td>
 <td width="33%">
 
-**CSS**  
+**CSS**
 ████████████░░░░░░░░ **45%**
 
 </td>
 <td width="33%">
 
-**JavaScript**  
+**JavaScript**
 ██░░░░░░░░░░░░░░░░░░ **10%**
 
 </td>
@@ -402,19 +444,19 @@ Responsive business showcase with project galleries, sticky navigation, reveal e
 <tr>
 <td width="33%">
 
-**CSS**  
+**CSS**
 ████████████████░░░░ **80%**
 
 </td>
 <td width="33%">
 
-**HTML**  
+**HTML**
 ████░░░░░░░░░░░░░░░░ **15%**
 
 </td>
 <td width="33%">
 
-**JavaScript**  
+**JavaScript**
 █░░░░░░░░░░░░░░░░░░░ **5%**
 
 </td>
@@ -439,12 +481,12 @@ Responsive business showcase with project galleries, sticky navigation, reveal e
 
 <div align="center">
 
-| Area | Current Focus |
-|---|---|
-| ⚛️ Front-End | React.js • JavaScript • Responsive UI |
-| 🧠 Programming | C++ • OOP • Problem Solving |
-| 🔐 Cyber Security | Learning & Exploring |
-| 🚀 Projects | Building • Improving • Documenting |
+| Area              | Current Focus                                                  |
+| ----------------- | -------------------------------------------------------------- |
+| ⚛️ Front-End      | React.js • Next.js • JavaScript • Tailwind CSS • Responsive UI |
+| 🧠 Programming    | C++ • OOP • Problem Solving                                    |
+| 🔐 Cyber Security | Learning & Exploring                                           |
+| 🚀 Projects       | Building • Improving • Documenting                             |
 
 </div>
 
@@ -455,21 +497,21 @@ Responsive business showcase with project galleries, sticky navigation, reveal e
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5"
-  height="175"
-  alt="GitHub Statistics">
+src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5"
+height="175"
+alt="GitHub Statistics">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb"
-  height="175"
-  alt="Top Languages">
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb"
+height="175"
+alt="Top Languages">
 
 <br><br>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  width="96%"
-  alt="GitHub Contribution Activity">
+src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity"
+width="96%"
+alt="GitHub Contribution Activity">
 
 </div>
 
@@ -514,5 +556,4 @@ I'm working toward becoming a stronger Front-End Developer while building a soli
 **Always learning. Always building.**
 
 </div>
-
 
