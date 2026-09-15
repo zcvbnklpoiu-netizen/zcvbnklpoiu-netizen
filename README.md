@@ -1,36 +1,22 @@
-<div align="center">
+### CS & AI Student • Full Stack Web Developer
 
-# Mohamed Ayman
+**React.js • Next.js • JavaScript • TypeScript • Node.js • Express.js • SQL**
 
-### CS & AI Student • Junior Front-End Developer
-
-**React.js • Next.js • JavaScript • Tailwind CSS • Responsive Web Development**
-
-Building real projects, improving my skills, and turning ideas into functional web experiences.
-
-<br>
-
-<a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
-<img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen">
-<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub">
-</a>
-
-</div>
+Building real-world web applications and continuously expanding my skills across both Front-End and Back-End development.
 
 ---
 
 # 👋 About Me
 
-I'm **Mohamed Ayman**, a **Computer Science & Artificial Intelligence student** and **Junior Front-End Developer** focused on building responsive and user-focused web interfaces.
+I'm **Mohamed Ayman**, a **Computer Science & Artificial Intelligence student** and **Full Stack Web Developer** focused on building modern, responsive, and user-focused web applications.
 
-My main development path is **Front-End Development**, especially **React.js, Next.js, JavaScript, and Tailwind CSS**, while I continue strengthening my programming foundation through **C++, OOP, and Problem Solving**.
+My development path covers both **Front-End and Back-End Development**, with a strong focus on **React.js, Next.js, JavaScript, Node.js, Express.js, and SQL**.
+
+I build interfaces, develop APIs, work with databases, and connect different parts of web applications to create complete and functional experiences.
 
 I'm also exploring **Cyber Security** as another area of technical growth.
 
-I learn mainly by building real projects, solving problems, experimenting with interfaces, and continuously improving what I already know.
+I learn mainly by building real projects, solving problems, experimenting with new technologies, and continuously improving what I already know.
 
 > **Build → Learn → Improve → Repeat.**
 
@@ -38,18 +24,15 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 # ⚡ What I Do
 
-<div align="center">
-
-| 🎨 | **Responsive UI**           | Building clean and responsive interfaces                  |
-| -- | --------------------------- | --------------------------------------------------------- |
-| ⚛️ | **React Development**       | Components, routing, Context API, interactive experiences |
-| ▲  | **Next.js Development**     | App Router, dynamic routes, layouts, reusable components  |
-| 🎨 | **Tailwind CSS**            | Modern responsive styling and UI development              |
-| 💻 | **Web Development**         | HTML5, CSS3, JavaScript, Vite                             |
-| 🧠 | **Programming Foundations** | C++, OOP, Problem Solving                                 |
-| 🔐 | **Cyber Security**          | Currently learning and exploring                          |
-
-</div>
+| 🖥️ | **Full Stack Development** | Building complete web applications from Front-End to Back-End |
+| --- | -------------------------- | ------------------------------------------------------------- |
+| 🎨  | **Responsive UI**          | Building clean and responsive interfaces                      |
+| ⚛️  | **React Development**      | Components, routing, Context API, and interactive experiences |
+| ▲   | **Next.js Development**    | App Router, dynamic routes, layouts, and reusable components  |
+| 🖥️ | **Back-End Development**   | Node.js, Express.js, REST APIs, and server-side development   |
+| 🗄️ | **Database Development**   | SQL and PostgreSQL fundamentals                               |
+| 🔧  | **Tools & Workflow**       | Git, GitHub, API integration, and project development         |
+| 🔐  | **Cyber Security**         | Currently learning and exploring                              |
 
 ---
 
@@ -61,11 +44,15 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5" alt="JavaScript">
 
+<img src="https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript&logoColor=58d6c5" alt="TypeScript">
+
 <img src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5" alt="HTML5">
 
 <img src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5" alt="CSS3">
 
 <img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=for-the-badge&logo=cplusplus&logoColor=58d6c5" alt="C++">
+
+<img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=58d6c5" alt="SQL">
 
 </p>
 
@@ -91,6 +78,22 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 </p>
 
+## Back-End
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=58d6c5" alt="Node.js">
+
+<img src="https://img.shields.io/badge/Express.js-0b1220?style=for-the-badge&logo=express&logoColor=58d6c5" alt="Express.js">
+
+<img src="https://img.shields.io/badge/REST_API-0b1220?style=for-the-badge&logoColor=58d6c5" alt="REST API">
+
+<img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=58d6c5" alt="PostgreSQL">
+
+<img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=58d6c5" alt="SQL">
+
+</p>
+
 ## Tools & Foundations
 
 <p align="center">
@@ -107,411 +110,16 @@ I learn mainly by building real projects, solving problems, experimenting with i
 
 ---
 
-# 🚀 Featured Projects
-
----
-
-## 🩺 Appointment App
-
-<div align="center">
-
-<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/appointment-app/"
-    width="96%"
-    alt="Appointment App Preview"
-  >
-</a>
-
-### Next.js • React • Tailwind CSS • Responsive Design
-
-A responsive doctor appointment platform with doctor search, doctor profiles, appointment booking, responsive navigation, and modern user interface.
-
-### Technologies
-
-**Next.js • React • JavaScript • Tailwind CSS • Responsive Design**
-
-<br>
-
-<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
-</a>
-
-</div>
-
----
-
-## 🛒 React E-Commerce
-
-<div align="center">
-
-<a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/"
-    width="96%"
-    alt="React E-Commerce Preview"
-  >
-</a>
-
-### React.js • JavaScript • React Router • Context API • Vite • Local Storage
-
-A responsive e-commerce interface focused on reusable components, routing, cart and wishlist interactions, checkout UI, and client-side state.
-
-### Languages
-
-<table>
-<tr>
-<td width="33%">
-
-**JavaScript**
-██████████████████░░ **90%**
-
-</td>
-<td width="33%">
-
-**CSS**
-████░░░░░░░░░░░░░░░░ **10%**
-
-</td>
-<td width="33%">
-
-**HTML**
-— **0%**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">
-<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
-</a>
-
-</div>
-
----
-
-## 🏋️ Peak Fitness
-
-<div align="center">
-
-<a href="https://zcvbnklpoiu-netizen.github.io/gym/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/gym/"
-    width="96%"
-    alt="Peak Fitness Preview"
-  >
-</a>
-
-### Front-End Development • Responsive Design
-
-Modern fitness website with membership plans, reviews, navigation, animations, and registration UI.
-
-### Languages
-
-<table>
-<tr>
-<td width="33%">
-
-**CSS**
-████████████████░░░░ **80%**
-
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://zcvbnklpoiu-netizen.github.io/gym/">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen/gym">
-<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
-</a>
-
-</div>
-
----
-
-## ☕ Caffeine Cove
-
-<div align="center">
-
-<a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/"
-    width="96%"
-    alt="Caffeine Cove Preview"
-  >
-</a>
-
-### Responsive Web Design • UI Animation • Interactive Effects
-
-Coffee shop interface with product presentation, responsive navigation, reveal motion, parallax, and hover effects.
-
-### Languages
-
-<table>
-<tr>
-<td width="33%">
-
-**CSS**
-████████████████░░░░ **80%**
-
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">
-<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
-</a>
-
-</div>
-
----
-
-## ⌚ VELORA
-
-<div align="center">
-
-<a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/VELORA/"
-    width="96%"
-    alt="VELORA Preview"
-  >
-</a>
-
-### Luxury UI • Responsive Layout • Visual Animation
-
-Luxury watch showcase with galleries, responsive layouts, hover interactions, and smooth visual effects.
-
-### Languages
-
-<table>
-<tr>
-<td width="33%">
-
-**CSS**
-████████████████░░░░ **80%**
-
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
-<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
-</a>
-
-</div>
-
----
-
-## 🍎 Apple Store
-
-<div align="center">
-
-<a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Apple-store/"
-    width="96%"
-    alt="Apple Store Preview"
-  >
-</a>
-
-### Responsive Store UI • Product Presentation • Scroll Effects
-
-Apple-inspired storefront with product sections, sticky navigation, scroll reveal, and responsive presentation.
-
-### Languages
-
-<table>
-<tr>
-<td width="33%">
-
-**HTML**
-████████████░░░░░░░░ **45%**
-
-</td>
-<td width="33%">
-
-**CSS**
-████████████░░░░░░░░ **45%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-██░░░░░░░░░░░░░░░░░░ **10%**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
-<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
-</a>
-
-</div>
-
----
-
-## 🌿 Al-Quds Pergolas
-
-<div align="center">
-
-<a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Pergolat/"
-    width="96%"
-    alt="Al-Quds Pergolas Preview"
-  >
-</a>
-
-### Business Showcase • Responsive Design • Interactive UI
-
-Responsive business showcase with project galleries, sticky navigation, reveal effects, hero motion, and smooth navigation.
-
-### Languages
-
-<table>
-<tr>
-<td width="33%">
-
-**CSS**
-████████████████░░░░ **80%**
-
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
-
-<a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
-<img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
-</a>
-
-</div>
-
----
-
 # 🌱 Currently Growing
 
-<div align="center">
-
-| Area              | Current Focus                                                  |
-| ----------------- | -------------------------------------------------------------- |
-| ⚛️ Front-End      | React.js • Next.js • JavaScript • Tailwind CSS • Responsive UI |
-| 🧠 Programming    | C++ • OOP • Problem Solving                                    |
-| 🔐 Cyber Security | Learning & Exploring                                           |
-| 🚀 Projects       | Building • Improving • Documenting                             |
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5"
-height="175"
-alt="GitHub Statistics">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb"
-height="175"
-alt="Top Languages">
-
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity"
-width="96%"
-alt="GitHub Contribution Activity">
-
-</div>
+| Area              | Current Focus                                               |
+| ----------------- | ----------------------------------------------------------- |
+| ⚛️ Front-End      | React.js • Next.js • JavaScript • TypeScript • Tailwind CSS |
+| 🖥️ Back-End      | Node.js • Express.js • REST APIs                            |
+| 🗄️ Databases     | SQL • PostgreSQL                                            |
+| 🧠 Programming    | C++ • OOP • Problem Solving                                 |
+| 🔐 Cyber Security | Learning & Exploring                                        |
+| 🚀 Projects       | Building • Improving • Documenting                          |
 
 ---
 
@@ -519,38 +127,6 @@ alt="GitHub Contribution Activity">
 
 > **Build → Learn → Improve → Repeat.**
 
-I'm working toward becoming a stronger Front-End Developer while building a solid technical foundation that can grow with me into other areas of software and security.
+I'm working toward becoming a stronger **Full Stack Web Developer** by building complete web applications and developing a solid foundation across Front-End, Back-End, databases, and software development.
 
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/m47389648/">
-  <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=58d6c5" alt="Instagram">
-</a>
-
-<a href="https://www.tiktok.com/@mohamed11e19">
-  <img src="https://img.shields.io/badge/TikTok-0b1220?style=for-the-badge&logo=tiktok&logoColor=58d6c5" alt="TikTok">
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100084846410792">
-  <img src="https://img.shields.io/badge/Facebook-0b1220?style=for-the-badge&logo=facebook&logoColor=58d6c5" alt="Facebook">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 👋
-
-**Always learning. Always building.**
-
-</div>
+I'm also building a strong technical foundation that can grow with me into **Cyber Security** and other areas of technology.
