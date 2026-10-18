@@ -1,15 +1,18 @@
-# Mohamed Ayman | Full-Stack Developer
+# Mohamed Ayman | Full-Stack Web Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58D6C5&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Databases" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/zcvbnklpoiu-netizen">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub Profile"/>
   </a>
   <a href="https://github.com/zcvbnklpoiu-netizen?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Projects-2F81F7?style=for-the-badge&logo=github" alt="Projects"/>
+    <img src="https://img.shields.io/badge/Explore-My_Projects-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="Explore Projects"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -19,14 +22,15 @@
 
 Hi! I'm **Mohamed Ayman**, a Computer Science & Artificial Intelligence student at **Obour University for Science and Technology (OUST)** and a Full-Stack Web Development enthusiast.
 
-I build modern, responsive web applications and enjoy turning ideas into practical digital products. My focus is on creating clean user interfaces, developing backend services, connecting databases, and building applications with maintainable structures.
+I enjoy transforming ideas into practical digital products, building responsive interfaces, developing backend services, and connecting applications to databases. I'm continuously improving my skills through hands-on projects and practical problem-solving.
 
 - 🎓 Computer Science & Artificial Intelligence student at OUST.
 - 💻 Focused on Full-Stack Web Development.
-- 🌐 Working with React, Next.js, JavaScript, Node.js, and REST APIs.
-- 🗄️ Learning and applying database design, authentication, and backend architecture.
-- 🔐 Interested in Cybersecurity and secure web application development.
-- 🚀 Building real-world projects to strengthen my development skills.
+- 🎨 Building responsive interfaces with React, Next.js, and modern CSS.
+- ⚙️ Learning and applying Node.js, backend development, and REST APIs.
+- 🗄️ Practicing database design, authentication, and application architecture.
+- 🔐 Interested in Cybersecurity and secure web applications.
+- 🚀 Building practical projects to grow as a developer.
 
 ---
 
@@ -78,229 +82,261 @@ I build modern, responsive web applications and enjoy turning ideas into practic
 
 # 🚀 Featured Projects
 
-## 01. MediaBook — Appointment Booking System
+## 01. 🩺 MediaBook — Appointment Booking System
 
 <p align="center">
   <a href="https://appointment-app-jssf.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://appointment-app-jssf.vercel.app/" width="100%" alt="MediaBook live website preview"/>
+    <img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://appointment-app-jssf.vercel.app/" width="96%" alt="MediaBook website preview"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
-  </a>
-  <a href="https://appointment-app-jssf.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
-  </a>
+  <strong>Next.js · React · TypeScript · Prisma · PostgreSQL</strong>
 </p>
 
-A medical appointment booking application designed to connect patients and doctors through a structured digital experience.
+A medical appointment booking platform designed to connect patients and doctors through a structured digital experience.
 
 **Key Features**
 - Patient and doctor account workflows.
 - Doctor profiles and professional information.
 - Appointment availability and booking workflows.
-- Database-backed application architecture.
-- Authentication and role-oriented functionality.
-- Administrative functionality as part of the planned system.
+- Database integration and authentication.
+- Administrative functionality as part of the application.
 
 **Technology Stack**
 
 `Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `SQLite` `Better Auth`
 
+<p align="center">
+  <a href="https://appointment-app-jssf.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
+    <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code"/>
+  </a>
+</p>
+
 ---
 
-## 02. Caffeine Cove — Coffee Shop Website
+## 02. ☕ Caffeine Cove — Coffee Shop Website
 
 <p align="center">
   <a href="https://caffeine-cove-omega.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://caffeine-cove-omega.vercel.app/" width="100%" alt="Caffeine Cove live website preview"/>
+    <img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://caffeine-cove-omega.vercel.app/" width="96%" alt="Caffeine Cove website preview"/>
   </a>
 </p>
 
 <p align="center">
+  <strong>Frontend Development · Responsive Design · UI Effects</strong>
+</p>
+
+A modern coffee-shop website focused on brand presentation, product discovery, and a polished visual experience.
+
+**Project Highlights**
+- Coffee-shop branding and product presentation.
+- Responsive page sections.
+- Hover interactions and visual effects.
+- Clean layout and consistent styling.
+
+**Technology Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+<p align="center">
+  <a href="https://caffeine-cove-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo"/>
+  </a>
   <a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
-  </a>
-  <a href="https://caffeine-cove-omega.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
+    <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code"/>
   </a>
 </p>
-
-A coffee-shop web experience focused on presenting the brand, its products, and its visual identity through a modern interface.
-
-**Project Focus**
-- Coffee-shop branding and presentation.
-- Organized page sections and product-focused content.
-- Responsive layout and visual consistency.
-- User-friendly browsing experience.
-
-**Technology Stack**
-
-See the repository's language breakdown and source files for the exact technologies used.
 
 ---
 
-## 03. Peak Fitness — Fitness Website
+## 03. 🏋️ Peak Fitness — Fitness Website
 
 <p align="center">
   <a href="https://gym-liart-two.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://gym-liart-two.vercel.app/" width="100%" alt="Peak Fitness live website preview"/>
+    <img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://gym-liart-two.vercel.app/" width="96%" alt="Peak Fitness website preview"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zcvbnklpoiu-netizen/gym">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
-  </a>
-  <a href="https://gym-liart-two.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
-  </a>
+  <strong>Responsive UI · Fitness Branding · Interactive Design</strong>
 </p>
 
-A fitness-focused website built to present a gym brand, training experience, and fitness-related content in a clear, engaging interface.
+A fitness website designed to showcase gym services, membership options, and training-related content in an engaging interface.
 
-**Project Focus**
-- Fitness-oriented visual design.
-- Clear content hierarchy.
+**Project Highlights**
+- Fitness-focused visual identity.
+- Membership and service presentation.
 - Responsive layouts.
-- Strong presentation of services and training information.
+- Interactive page elements and navigation.
 
 **Technology Stack**
 
-See the repository's language breakdown and source files for the exact technologies used.
+`HTML5` `CSS3` `JavaScript`
+
+<p align="center">
+  <a href="https://gym-liart-two.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/gym">
+    <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code"/>
+  </a>
+</p>
 
 ---
 
-## 04. Apple Store — E-commerce Interface
+## 04. 🍎 Apple Store — Product Showcase
 
 <p align="center">
   <a href="https://apple-store-gray-delta.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://apple-store-gray-delta.vercel.app/" width="100%" alt="Apple Store live website preview"/>
+    <img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://apple-store-gray-delta.vercel.app/" width="96%" alt="Apple Store website preview"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
-  </a>
-  <a href="https://apple-store-gray-delta.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
-  </a>
+  <strong>Product Presentation · Responsive Design · E-commerce UI</strong>
 </p>
 
-An Apple-inspired storefront project focused on presenting products through a clean, modern shopping interface.
+An Apple-inspired storefront focused on product presentation, modern layouts, and a clean shopping experience.
 
-**Project Focus**
-- Product presentation and visual hierarchy.
-- Minimal, product-focused design.
+**Project Highlights**
+- Product-focused sections.
+- Minimal visual presentation.
 - Responsive interface.
-- E-commerce UI development practice.
+- Interactive navigation and page elements.
 
 **Technology Stack**
 
-See the repository's language breakdown and source files for the exact technologies used.
+`HTML5` `CSS3` `JavaScript`
+
+<p align="center">
+  <a href="https://apple-store-gray-delta.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
+    <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code"/>
+  </a>
+</p>
 
 ---
 
-## 05. VELORA — Fashion E-commerce
+## 05. ⌚ VELORA — Luxury Watch Showcase
 
 <p align="center">
   <a href="https://velora-lilac-eight.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://velora-lilac-eight.vercel.app/" width="100%" alt="VELORA live website preview"/>
+    <img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://velora-lilac-eight.vercel.app/" width="96%" alt="VELORA website preview"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
-  </a>
-  <a href="https://velora-lilac-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
-  </a>
+  <strong>Brand Identity · Product Gallery · Modern UI</strong>
 </p>
 
-A fashion storefront concept built around a polished brand identity and an online-shopping presentation.
+A luxury-inspired product showcase designed to present watches through refined layouts and a strong visual identity.
 
-**Project Focus**
-- Fashion-oriented visual identity.
+**Project Highlights**
+- Premium brand presentation.
 - Product-centered layouts.
-- Consistent styling and responsive design.
-- Modern storefront presentation.
+- Responsive styling.
+- Hover interactions and visual details.
 
 **Technology Stack**
 
-See the repository's language breakdown and source files for the exact technologies used.
+`HTML5` `CSS3` `JavaScript`
+
+<p align="center">
+  <a href="https://velora-lilac-eight.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
+    <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code"/>
+  </a>
+</p>
 
 ---
 
-## 06. Al-Quds Pergolas — Pergola Showcase
+## 06. 🪵 Al-Quds Pergolas — Business Showcase
 
 <p align="center">
   <a href="https://al-quds-mu.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://al-quds-mu.vercel.app/" width="100%" alt="Al-Quds Pergolas live website preview"/>
+    <img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://al-quds-mu.vercel.app/" width="96%" alt="Al-Quds Pergolas website preview"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
-  </a>
-  <a href="https://al-quds-mu.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
-  </a>
+  <strong>Business Website · Project Gallery · Responsive Design</strong>
 </p>
 
-A responsive showcase website for pergola projects, designed to present completed work and highlight the business's visual identity.
+A business showcase website created to present pergola projects and services through an organized, responsive interface.
 
-**Key Features**
+**Project Highlights**
 - Project gallery and visual showcase.
 - Sticky navigation.
-- Reveal effects and hero movement.
+- Hero animations and reveal effects.
 - Back-to-top interaction.
-- Responsive presentation for visitors.
+- Responsive presentation.
 
 **Technology Stack**
 
-See the repository's language breakdown and source files for the exact technologies used.
+`HTML5` `CSS3` `JavaScript`
+
+<p align="center">
+  <a href="https://al-quds-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
+    <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code"/>
+  </a>
+</p>
 
 ---
 
-## 07. E-commerce Web Project
+## 07. 🛍️ E-commerce Web Project
 
 <p align="center">
   <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
-    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/" width="100%" alt="E-commerce live website preview"/>
+    <img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/" width="96%" alt="E-commerce website preview"/>
   </a>
 </p>
 
 <p align="center">
+  <strong>React · React Router · Context API · Vite</strong>
+</p>
+
+An e-commerce interface built to practice product browsing and core shopping interactions.
+
+**Project Highlights**
+- Product listing and presentation.
+- Shopping cart and wishlist functionality.
+- Client-side state management.
+- Local Storage for persistent browser data.
+- Checkout interface practice.
+
+**Technology Stack**
+
+`React` `React Router` `Context API` `Vite` `Local Storage`
+
+<p align="center">
+  <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo"/>
+  </a>
   <a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
-  </a>
-  <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
-    <img src="https://img.shields.io/badge/GitHub_Pages-Live_Demo-222222?style=for-the-badge&logo=github" alt="Live demo"/>
+    <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code"/>
   </a>
 </p>
 
-An e-commerce project created to practice storefront structure, product presentation, and the building blocks of an online shopping experience.
-
-**Project Focus**
-- Storefront layout and product presentation.
-- Interface organization.
-- Web development fundamentals.
-- Responsive UI practice.
-
-**Technology Stack**
-
-See the repository's language breakdown and source files for the exact technologies used.
-
 ---
 
-## 08. Bank System — C++
+## 08. 🏦 Bank System — C++
 
-A university project developed as part of programming fundamentals, focusing on structured programming and banking operations.
+<p align="center">
+  <strong>University Project · Structured Programming · C++</strong>
+</p>
+
+A university project focused on applying programming fundamentals to banking operations and account management.
 
 **Key Features**
 - User authentication.
@@ -311,31 +347,55 @@ A university project developed as part of programming fundamentals, focusing on 
 
 **Technology Stack**
 
-`C++` · Structured Programming · Programming Fundamentals
+`C++` `Structured Programming` `Programming Fundamentals`
+
+---
+
+## 09. 🔴 Fara3net El Fadaa — Mars Mapping Concept
+
+<p align="center">
+  <strong>Space Exploration · GIS · Mars Terrain · Route Planning</strong>
+</p>
+
+A space-mapping project concept focused on exploring how Mars terrain data and geographic information systems could support route planning for future surface exploration.
+
+**Project Goals**
+- Explore Mars terrain and elevation data.
+- Investigate mapping data from NASA missions.
+- Study GIS-based terrain visualization.
+- Explore potential routes across selected Martian terrain.
+
+**Technology Areas**
+
+`GIS` `Mars Terrain Data` `NASA Data Sources` `Route Planning`
+
+*This project is a concept and development direction; implementation details and data sources will be documented as the project progresses.*
 
 ---
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=58d6c5&icon_color=58d6c5" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=compact&theme=tokyonight&hide_border=true&title_color=58d6c5" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zcvbnklpoiu-netizen&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=zcvbnklpoiu-netizen&theme=tokyonight&hide_border=true&ring=58d6c5&fire=58d6c5&currStreakLabel=58d6c5" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Growing
 
-- Strengthening my full-stack development skills.
-- Building maintainable backend services and REST APIs.
-- Improving database design and authentication workflows.
-- Developing polished frontend experiences.
-- Expanding my portfolio with practical, real-world applications.
-- Exploring secure web development and cybersecurity fundamentals.
+| Area | Current Focus |
+|:---|:---|
+| ⚙️ Backend Development | Node.js fundamentals, HTTP, asynchronous programming, and REST APIs |
+| 🗄️ Databases | SQL, schema design, Prisma ORM, and database migrations |
+| 🔐 Application Security | Authentication, authorization, and secure backend practices |
+| 🎨 Frontend Development | React, Next.js, responsive UI, and animation |
+| 🧱 Software Architecture | Maintainable code, reusable components, and project structure |
+| 🌌 Space Technology | GIS workflows and Mars terrain mapping concepts |
 
 ---
 
@@ -343,12 +403,25 @@ A university project developed as part of programming fundamentals, focusing on 
 
 <p align="center">
   <a href="https://github.com/zcvbnklpoiu-netizen">
-    <img src="https://img.shields.io/badge/GitHub-Mohamed_Ayman-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/m47389648/">
+    <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=58d6c5" alt="Instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@mohamed11e19">
+    <img src="https://img.shields.io/badge/TikTok-0b1220?style=for-the-badge&logo=tiktok&logoColor=58d6c5" alt="TikTok"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100084846410792">
+    <img src="https://img.shields.io/badge/Facebook-0b1220?style=for-the-badge&logo=facebook&logoColor=58d6c5" alt="Facebook"/>
   </a>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! Feel free to explore my repositories and projects.
+  Thanks for visiting my profile!
+  <br/>
+  <strong>Always learning. Always building.</strong>
 </p>
-
 
