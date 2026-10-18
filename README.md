@@ -1,19 +1,18 @@
-<div align="center">
+ <div align="center">
 
 # Mohamed Ayman
 
-### CS & AI Student • Full Stack Web Developer
+### Full-Stack Web Developer
 
-**React.js • Next.js • JavaScript • TypeScript • Node.js • Express.js • SQL**
+**JavaScript · React.js · Next.js · Node.js · Express.js · Prisma · SQL**
 
-Building real-world web applications and continuously expanding my skills across both Front-End and Back-End development.
+Building modern web applications with responsive interfaces, backend APIs, authentication, and database integration.
 
 <br>
 
 <a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
 <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
 </a>
-
 <a href="https://github.com/zcvbnklpoiu-netizen">
 <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub">
 </a>
@@ -24,17 +23,15 @@ Building real-world web applications and continuously expanding my skills across
 
 # 👋 About Me
 
-I'm **Mohamed Ayman**, a **Computer Science & Artificial Intelligence student** and **Full Stack Web Developer** focused on building modern, responsive, and user-focused web applications.
+I'm **Mohamed Ayman**, a Full-Stack Web Developer and Computer Science & Artificial Intelligence student.
 
-My development path covers both **Front-End and Back-End Development**, with a strong focus on **React.js, Next.js, JavaScript, Node.js, Express.js, and SQL**.
+I build web applications from interactive front-end interfaces to backend services and database integration. My work focuses on **React, Next.js, Node.js, REST APIs, authentication, and SQL databases**.
 
-I build interfaces, develop APIs, work with databases, and connect different parts of web applications to create complete and functional experiences.
+I enjoy turning ideas into practical applications, solving development challenges, and improving code quality, application architecture, and user experience.
 
-I'm also exploring **Cyber Security** as another area of technical growth.
+I'm also building my knowledge of **Cyber Security** and secure web development.
 
-I learn mainly by building real projects, solving problems, experimenting with new technologies, and continuously improving what I already know.
-
-> **Build → Learn → Improve → Repeat.**
+> **Build · Learn · Improve · Repeat.**
 
 ---
 
@@ -42,15 +39,15 @@ I learn mainly by building real projects, solving problems, experimenting with n
 
 <div align="center">
 
-| 🖥️ | **Full Stack Development** | Building complete web applications from Front-End to Back-End |
-| --- | -------------------------- | ------------------------------------------------------------- |
-| 🎨  | **Responsive UI**          | Building clean and responsive interfaces                      |
-| ⚛️  | **React Development**      | Components, routing, Context API, and interactive experiences |
-| ▲   | **Next.js Development**    | App Router, dynamic routes, layouts, and reusable components  |
-| 🖥️ | **Back-End Development**   | Node.js, Express.js, REST APIs, and server-side development   |
-| 🗄️ | **Database Development**   | SQL and PostgreSQL fundamentals                               |
-| 🔧  | **Tools & Workflow**       | Git, GitHub, API integration, and project development         |
-| 🔐  | **Cyber Security**         | Currently learning and exploring                              |
+| Area | Focus |
+|:--|:--|
+| 🖥️ Full-Stack Development | Building complete web applications |
+| ⚛️ Front-End Development | React, Next.js, reusable components, responsive UI |
+| ⚙️ Back-End Development | Node.js, Express.js, server-side logic, REST APIs |
+| 🗄️ Database Development | SQL, PostgreSQL, SQLite, Prisma ORM |
+| 🔐 Authentication & Security | Authentication flows, access control, secure API practices |
+| 🧪 Testing & Debugging | Automated tests, integration testing, troubleshooting |
+| 🎨 UI & Interaction | Responsive layouts, animations, interactive experiences |
 
 </div>
 
@@ -58,113 +55,94 @@ I learn mainly by building real projects, solving problems, experimenting with n
 
 # 🛠️ Tech Stack
 
-## Languages
+## Languages & Fundamentals
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=58d6c5" alt="JavaScript">
-
 <img src="https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript&logoColor=58d6c5" alt="TypeScript">
-
 <img src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=58d6c5" alt="HTML5">
-
 <img src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=58d6c5" alt="CSS3">
-
-<img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=for-the-badge&logo=cplusplus&logoColor=58d6c5" alt="C++">
-
+<img src="https://img.shields.io/badge/C++-0b1220?style=for-the-badge&logo=cplusplus&logoColor=58d6c5" alt="C++">
 <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=58d6c5" alt="SQL">
-
 </p>
 
 ## Front-End
 
 <p align="center">
-
+<img src="https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5" alt="React">
 <img src="https://img.shields.io/badge/Next.js-0b1220?style=for-the-badge&logo=next.js&logoColor=58d6c5" alt="Next.js">
-
-<img src="https://img.shields.io/badge/React.js-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5" alt="React.js">
-
 <img src="https://img.shields.io/badge/Tailwind_CSS-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=58d6c5" alt="Tailwind CSS">
-
 <img src="https://img.shields.io/badge/React_Router-0b1220?style=for-the-badge&logo=reactrouter&logoColor=58d6c5" alt="React Router">
-
 <img src="https://img.shields.io/badge/Context_API-0b1220?style=for-the-badge&logo=react&logoColor=58d6c5" alt="Context API">
-
 <img src="https://img.shields.io/badge/Vite-0b1220?style=for-the-badge&logo=vite&logoColor=58d6c5" alt="Vite">
-
-<img src="https://img.shields.io/badge/Responsive_Design-0b1220?style=for-the-badge&logoColor=58d6c5" alt="Responsive Design">
-
-<img src="https://img.shields.io/badge/Local_Storage-0b1220?style=for-the-badge&logo=googlechrome&logoColor=58d6c5" alt="Local Storage">
-
 </p>
 
-## Back-End
+## Back-End & APIs
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=58d6c5" alt="Node.js">
-
 <img src="https://img.shields.io/badge/Express.js-0b1220?style=for-the-badge&logo=express&logoColor=58d6c5" alt="Express.js">
-
-<img src="https://img.shields.io/badge/REST_API-0b1220?style=for-the-badge&logoColor=58d6c5" alt="REST API">
-
-<img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=58d6c5" alt="SQL">
-
-<img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=58d6c5" alt="PostgreSQL">
-
+<img src="https://img.shields.io/badge/REST_APIs-0b1220?style=for-the-badge&logoColor=58d6c5" alt="REST APIs">
+<img src="https://img.shields.io/badge/Better_Auth-0b1220?style=for-the-badge&logoColor=58d6c5" alt="Better Auth">
+<img src="https://img.shields.io/badge/JWT-0b1220?style=for-the-badge&logo=jsonwebtokens&logoColor=58d6c5" alt="JWT">
 </p>
 
-## Tools & Foundations
+## Databases & ORM
 
 <p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=58d6c5" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQLite-0b1220?style=for-the-badge&logo=sqlite&logoColor=58d6c5" alt="SQLite">
+<img src="https://img.shields.io/badge/Prisma_ORM-0b1220?style=for-the-badge&logo=prisma&logoColor=58d6c5" alt="Prisma ORM">
+</p>
 
+## Development Tools & Workflow
+
+<p align="center">
 <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=58d6c5" alt="Git">
-
 <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="GitHub">
-
-<img src="https://img.shields.io/badge/OOP-0b1220?style=for-the-badge&logoColor=58d6c5" alt="OOP">
-
-<img src="https://img.shields.io/badge/Problem_Solving-0b1220?style=for-the-badge&logoColor=58d6c5" alt="Problem Solving">
-
+<img src="https://img.shields.io/badge/VS_Code-0b1220?style=for-the-badge&logo=visualstudiocode&logoColor=58d6c5" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/npm-0b1220?style=for-the-badge&logo=npm&logoColor=58d6c5" alt="npm">
+<img src="https://img.shields.io/badge/ESLint-0b1220?style=for-the-badge&logo=eslint&logoColor=58d6c5" alt="ESLint">
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
----
-
-## 🩺 Appointment App
+## 🩺 MediaBook — Appointment Booking Platform
 
 <div align="center">
 
-<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/appointment-app/"
-    width="96%"
-    alt="Appointment App Preview"
-  >
+<a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
+<img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://github.com/zcvbnklpoiu-netizen/appointment-app" width="96%" alt="MediaBook Appointment Platform Repository Preview">
 </a>
 
-### Next.js • React • Tailwind CSS • Responsive Design
+### Next.js · React · Prisma · PostgreSQL · Better Auth
 
-A responsive doctor appointment platform with doctor search, doctor profiles, appointment booking, responsive navigation, and modern user interface.
+</div>
 
-### Technologies
+A full-stack appointment booking application designed to connect patients and doctors through a structured booking workflow.
 
-**Next.js • React • JavaScript • Tailwind CSS • Responsive Design**
+**Key Features**
+- Patient and doctor account workflows.
+- Doctor profiles and appointment availability.
+- Appointment booking and scheduling logic.
+- Backend API routes and database integration.
+- Authentication and role-based access control.
+- Database schema management and migrations.
+- Input validation and automated testing.
 
-<br>
+**Technologies:** Next.js, React, JavaScript, Tailwind CSS, Prisma ORM, PostgreSQL, SQLite, Better Auth, Node.js, REST APIs, Git, GitHub.
 
-<a href="https://zcvbnklpoiu-netizen.github.io/appointment-app/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
-</a>
+<div align="center">
 
 <a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
-  <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
+<img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Source Code">
 </a>
 
 </div>
+
+> Production deployment is being finalized. The repository link is provided as the project source; a live demo will be added after deployment is verified.
 
 ---
 
@@ -173,48 +151,29 @@ A responsive doctor appointment platform with doctor search, doctor profiles, ap
 <div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/"
-    width="96%"
-    alt="React E-Commerce Preview"
-  >
+<img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/" width="96%" alt="React E-Commerce Preview">
 </a>
 
-### React.js • JavaScript • React Router • Context API • Vite • Local Storage
+### React.js · React Router · Context API · Vite
 
-A responsive e-commerce interface focused on reusable components, routing, cart and wishlist interactions, checkout UI, and client-side state.
+</div>
 
-### Languages
+A responsive e-commerce front-end focused on reusable components, navigation, and interactive shopping experiences.
 
-<table>
-<tr>
-<td width="33%">
+**Key Features**
+- Product browsing and presentation.
+- Shopping cart and wishlist interactions.
+- Client-side state management.
+- Navigation and reusable UI components.
+- Responsive layouts and checkout interface.
 
-**JavaScript**
-██████████████████░░ **90%**
+**Technologies:** React, JavaScript, CSS, React Router, Context API, Vite, Local Storage.
 
-</td>
-<td width="33%">
-
-**CSS**
-████░░░░░░░░░░░░░░░░ **10%**
-
-</td>
-<td width="33%">
-
-**HTML**
-— **0%**
-
-</td>
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
-
 <a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">
 <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
@@ -228,48 +187,28 @@ A responsive e-commerce interface focused on reusable components, routing, cart 
 <div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/gym/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/gym/"
-    width="96%"
-    alt="Peak Fitness Preview"
-  >
+<img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/gym/" width="96%" alt="Peak Fitness Website Preview">
 </a>
 
-### Front-End Development • Responsive Design
+### HTML · CSS · JavaScript · Responsive UI
 
-Modern fitness website with membership plans, reviews, navigation, animations, and registration UI.
+</div>
 
-### Languages
+A modern fitness website presenting membership plans, reviews, and an engaging user interface.
 
-<table>
-<tr>
-<td width="33%">
+**Key Features**
+- Responsive navigation and page layouts.
+- Membership plan presentation.
+- Review and content sections.
+- Interactive elements and visual effects.
 
-**CSS**
-████████████████░░░░ **80%**
+**Technologies:** HTML5, CSS3, JavaScript, Responsive Design.
 
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/gym/">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
-
 <a href="https://github.com/zcvbnklpoiu-netizen/gym">
 <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
@@ -283,48 +222,28 @@ Modern fitness website with membership plans, reviews, navigation, animations, a
 <div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/"
-    width="96%"
-    alt="Caffeine Cove Preview"
-  >
+<img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/" width="96%" alt="Caffeine Cove Website Preview">
 </a>
 
-### Responsive Web Design • UI Animation • Interactive Effects
+### Responsive Web Design · UI Animation · Interactive Effects
 
-Coffee shop interface with product presentation, responsive navigation, reveal motion, parallax, and hover effects.
+</div>
 
-### Languages
+A coffee shop website concept combining product presentation with polished layouts and interactive visual effects.
 
-<table>
-<tr>
-<td width="33%">
+**Key Features**
+- Product presentation and content sections.
+- Responsive navigation.
+- Scroll-reveal and parallax effects.
+- Hover interactions and visual transitions.
 
-**CSS**
-████████████████░░░░ **80%**
+**Technologies:** HTML5, CSS3, JavaScript, Responsive Design, UI Animation.
 
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
-
 <a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">
 <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
@@ -333,53 +252,33 @@ Coffee shop interface with product presentation, responsive navigation, reveal m
 
 ---
 
-## ⌚ VELORA
+## ⌚ VELORA — Luxury Watch Showcase
 
 <div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/VELORA/"
-    width="96%"
-    alt="VELORA Preview"
-  >
+<img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/VELORA/" width="96%" alt="VELORA Website Preview">
 </a>
 
-### Luxury UI • Responsive Layout • Visual Animation
+### Responsive Layout · Product Presentation · Visual Effects
 
-Luxury watch showcase with galleries, responsive layouts, hover interactions, and smooth visual effects.
+</div>
 
-### Languages
+A luxury-inspired watch showcase focused on visual presentation, product galleries, and refined interaction design.
 
-<table>
-<tr>
-<td width="33%">
+**Key Features**
+- Product and gallery presentation.
+- Responsive page layouts.
+- Hover interactions and visual effects.
+- Modern product-focused interface.
 
-**CSS**
-████████████████░░░░ **80%**
+**Technologies:** HTML5, CSS3, JavaScript, Responsive Design.
 
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
-
 <a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
 <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
@@ -388,53 +287,33 @@ Luxury watch showcase with galleries, responsive layouts, hover interactions, an
 
 ---
 
-## 🍎 Apple Store
+## 🍎 Apple Store — Storefront UI
 
 <div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Apple-store/"
-    width="96%"
-    alt="Apple Store Preview"
-  >
+<img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Apple-store/" width="96%" alt="Apple Store Website Preview">
 </a>
 
-### Responsive Store UI • Product Presentation • Scroll Effects
+### Responsive Store UI · Product Sections · Scroll Effects
 
-Apple-inspired storefront with product sections, sticky navigation, scroll reveal, and responsive presentation.
+</div>
 
-### Languages
+An Apple-inspired storefront concept featuring product-focused sections and responsive visual presentation.
 
-<table>
-<tr>
-<td width="33%">
+**Key Features**
+- Product presentation and content sections.
+- Sticky navigation.
+- Scroll-based visual effects.
+- Responsive page structure.
 
-**HTML**
-████████████░░░░░░░░ **45%**
+**Technologies:** HTML5, CSS3, JavaScript, Responsive Design.
 
-</td>
-<td width="33%">
-
-**CSS**
-████████████░░░░░░░░ **45%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-██░░░░░░░░░░░░░░░░░░ **10%**
-
-</td>
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
-
 <a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
 <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
@@ -448,48 +327,28 @@ Apple-inspired storefront with product sections, sticky navigation, scroll revea
 <div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
-  <img
-    src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Pergolat/"
-    width="96%"
-    alt="Al-Quds Pergolas Preview"
-  >
+<img src="https://image.thum.io/get/width/1440/crop/820/noanimate/https://zcvbnklpoiu-netizen.github.io/Pergolat/" width="96%" alt="Al-Quds Pergolas Website Preview">
 </a>
 
-### Business Showcase • Responsive Design • Interactive UI
+### Business Website · Responsive Design · Interactive UI
 
-Responsive business showcase with project galleries, sticky navigation, reveal effects, hero motion, and smooth navigation.
+</div>
 
-### Languages
+A business showcase for pergolas and outdoor structures, designed to present services and completed work through a clear visual layout.
 
-<table>
-<tr>
-<td width="33%">
+**Key Features**
+- Business and service presentation.
+- Project gallery.
+- Responsive navigation.
+- Visual transitions and interactive elements.
 
-**CSS**
-████████████████░░░░ **80%**
+**Technologies:** HTML5, CSS3, JavaScript, Responsive Design.
 
-</td>
-<td width="33%">
-
-**HTML**
-████░░░░░░░░░░░░░░░░ **15%**
-
-</td>
-<td width="33%">
-
-**JavaScript**
-█░░░░░░░░░░░░░░░░░░░ **5%**
-
-</td>
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58d6c5?style=for-the-badge&labelColor=0b1220" alt="Live Demo">
 </a>
-
 <a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
 <img src="https://img.shields.io/badge/💻_VIEW_CODE-f4f7fb?style=for-the-badge&labelColor=0b1220" alt="View Code">
 </a>
@@ -498,18 +357,44 @@ Responsive business showcase with project galleries, sticky navigation, reveal e
 
 ---
 
-# 🌱 Currently Growing
+## 🏦 Bank System — C++
+
+A university project implementing core banking operations using C++ and structured programming principles.
+
+**Key Features**
+- Login and account operations.
+- Banking transactions.
+- Loan calculations.
+- Currency conversion.
+
+**Technologies:** C++, Structured Programming, Programming Fundamentals.
+
+---
+
+# 🔧 My Development Workflow
+
+- **Editor:** Visual Studio Code
+- **Version Control:** Git and GitHub
+- **Package Management:** npm
+- **Frameworks:** React and Next.js
+- **Backend:** Node.js and Express.js
+- **Data Layer:** Prisma ORM, PostgreSQL, SQLite
+- **Testing:** Node.js test runner and integration tests
+- **Code Quality:** ESLint and TypeScript checks
+
+---
+
+# 🌱 Currently Learning & Improving
 
 <div align="center">
 
-| Area              | Current Focus                                               |
-| ----------------- | ----------------------------------------------------------- |
-| ⚛️ Front-End      | React.js • Next.js • JavaScript • TypeScript • Tailwind CSS |
-| 🖥️ Back-End      | Node.js • Express.js • REST APIs                            |
-| 🗄️ Databases     | SQL • PostgreSQL                                            |
-| 🧠 Programming    | C++ • OOP • Problem Solving                                 |
-| 🔐 Cyber Security | Learning & Exploring                                        |
-| 🚀 Projects       | Building • Improving • Documenting                          |
+| Area | Focus |
+|:--|:--|
+| Full-Stack Development | Building and improving complete web applications |
+| Backend Engineering | APIs, validation, authentication, and database design |
+| Software Quality | Testing, debugging, and maintainable code |
+| Application Security | Secure authentication and access control |
+| UI Development | Responsive design, animation, and user experience |
 
 </div>
 
@@ -519,34 +404,15 @@ Responsive business showcase with project galleries, sticky navigation, reveal e
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5"
-height="175"
-alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb&icon_color=58d6c5" height="175" alt="GitHub Statistics">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb"
-height="175"
-alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=58d6c5&text_color=f4f7fb" height="175" alt="Most Used Languages">
 
 <br><br>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity"
-width="96%"
-alt="GitHub Contribution Activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zcvbnklpoiu-netizen&bg_color=0b1220&color=58d6c5&line=58d6c5&point=f4f7fb&area_color=17333a&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="GitHub Contribution Activity">
 
 </div>
-
----
-
-# 🎯 What I'm Working Toward
-
-> **Build → Learn → Improve → Repeat.**
-
-I'm working toward becoming a stronger **Full Stack Web Developer** by building complete web applications and developing a solid foundation across Front-End, Back-End, databases, and software development.
-
-I'm also building a strong technical foundation that can grow with me into **Cyber Security** and other areas of technology.
 
 ---
 
@@ -555,29 +421,22 @@ I'm also building a strong technical foundation that can grow with me into **Cyb
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-ayman-b78255373">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=58d6c5" alt="LinkedIn">
 </a>
-
 <a href="https://www.instagram.com/m47389648/">
-  <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=58d6c5" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=58d6c5" alt="Instagram">
 </a>
-
 <a href="https://www.tiktok.com/@mohamed11e19">
-  <img src="https://img.shields.io/badge/TikTok-0b1220?style=for-the-badge&logo=tiktok&logoColor=58d6c5" alt="TikTok">
+<img src="https://img.shields.io/badge/TikTok-0b1220?style=for-the-badge&logo=tiktok&logoColor=58d6c5" alt="TikTok">
 </a>
-
 <a href="https://www.facebook.com/profile.php?id=100084846410792">
-  <img src="https://img.shields.io/badge/Facebook-0b1220?style=for-the-badge&logo=facebook&logoColor=58d6c5" alt="Facebook">
+<img src="https://img.shields.io/badge/Facebook-0b1220?style=for-the-badge&logo=facebook&logoColor=58d6c5" alt="Facebook">
 </a>
 
-</div>
+<br><br>
 
----
+**Thanks for visiting my profile!**
 
-<div align="center">
-
-### Thanks for visiting my profile 👋
-
-**Always learning. Always building.**
+*Always learning. Always building.*
 
 </div>
