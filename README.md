@@ -1,220 +1,354 @@
-# 🚀 Mohamed Ayman — Full-Stack Web Developer
+# Mohamed Ayman | Full-Stack Developer
 
-Building modern, responsive web applications with a focus on clean UI, reliable backend systems, and practical user experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Databases" alt="Typing SVG" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zcvbnklpoiu-netizen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/zcvbnklpoiu-netizen?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Projects-2F81F7?style=for-the-badge&logo=github" alt="Projects"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS  
-**Backend:** Node.js · Express.js · REST APIs · Authentication  
-**Databases:** PostgreSQL · MySQL · SQLite · Prisma ORM  
-**Tools:** Git · GitHub · VS Code · npm · Vercel
+Hi! I'm **Mohamed Ayman**, a Computer Science & Artificial Intelligence student at **Obour University for Science and Technology (OUST)** and a Full-Stack Web Development enthusiast.
+
+I build modern, responsive web applications and enjoy turning ideas into practical digital products. My focus is on creating clean user interfaces, developing backend services, connecting databases, and building applications with maintainable structures.
+
+- 🎓 Computer Science & Artificial Intelligence student at OUST.
+- 💻 Focused on Full-Stack Web Development.
+- 🌐 Working with React, Next.js, JavaScript, Node.js, and REST APIs.
+- 🗄️ Learning and applying database design, authentication, and backend architecture.
+- 🔐 Interested in Cybersecurity and secure web application development.
+- 🚀 Building real-world projects to strengthen my development skills.
 
 ---
 
-# 🌟 Featured Projects
+## 🛠️ Technologies & Tools
 
-## 1. MediaBook — Appointment Booking System
+### 🎨 Frontend Development
 
-A full-stack medical appointment platform designed to connect patients and doctors through a structured booking experience.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies"/>
+</p>
+
+**Technologies:** HTML5 · CSS3 · JavaScript · TypeScript · React.js · Next.js · Tailwind CSS
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies"/>
+</p>
+
+**Technologies:** Node.js · Express.js · REST APIs · HTTP · Asynchronous JavaScript
+
+### 🗄️ Databases & Authentication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,prisma" alt="Database technologies"/>
+</p>
+
+**Technologies:** MySQL · SQLite · PostgreSQL · Prisma ORM · JWT · bcryptjs · Better Auth
+
+### 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,windows" alt="Development tools"/>
+</p>
+
+**Tools:** VS Code · Git · GitHub · npm · PowerShell · Windows Terminal
+
+### ✨ Additional Skills
+
+- Responsive Web Design
+- Component-Based Architecture
+- Database Modeling and Migrations
+- Authentication and Authorization
+- API Integration
+- Debugging and Troubleshooting
+- AI-Assisted Development Workflows
+
+---
+
+# 🚀 Featured Projects
+
+## 01. MediaBook — Appointment Booking System
+
+<p align="center">
+  <a href="https://appointment-app-jssf.vercel.app/">
+    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://appointment-app-jssf.vercel.app/" width="100%" alt="MediaBook live website preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+  </a>
+  <a href="https://appointment-app-jssf.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
+  </a>
+</p>
+
+A medical appointment booking application designed to connect patients and doctors through a structured digital experience.
 
 **Key Features**
 - Patient and doctor account workflows.
-- Doctor profiles and appointment availability.
-- Appointment booking and management.
+- Doctor profiles and professional information.
+- Appointment availability and booking workflows.
 - Database-backed application architecture.
-- Authentication and protected application workflows.
+- Authentication and role-oriented functionality.
+- Administrative functionality as part of the planned system.
 
-**Technologies:** Next.js · React · TypeScript · Prisma · PostgreSQL · Better Auth
+**Technology Stack**
 
-**Language Distribution**
-```text
-TypeScript  ████████████████░░░░  [actual %]
-JavaScript  ██████████░░░░░░░░░░  [actual %]
-CSS         ████░░░░░░░░░░░░░░░░  [actual %]
-Other       ██░░░░░░░░░░░░░░░░░░  [actual %]
-```
-
-[🚀 Live Demo](https://appointment-app-jssf.vercel.app/) · [💻 Source Code](https://github.com/zcvbnklpoiu-netizen/appointment-app)
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `SQLite` `Better Auth`
 
 ---
 
-## 2. Caffeine Cove — Coffee Shop Website
+## 02. Caffeine Cove — Coffee Shop Website
 
-A coffee shop website focused on presenting the brand, products, and browsing experience through a polished interface.
+<p align="center">
+  <a href="https://caffeine-cove-omega.vercel.app/">
+    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://caffeine-cove-omega.vercel.app/" width="100%" alt="Caffeine Cove live website preview"/>
+  </a>
+</p>
 
-**Highlights**
-- Modern coffee-shop visual identity.
-- Responsive page layouts.
-- Product and brand presentation.
-- Clear navigation and visual hierarchy.
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+  </a>
+  <a href="https://caffeine-cove-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
+  </a>
+</p>
 
-**Technologies:** HTML · CSS · JavaScript *(confirm against repository)*
+A coffee-shop web experience focused on presenting the brand, its products, and its visual identity through a modern interface.
 
-**Language Distribution**
-```text
-HTML        ████████████░░░░░░░░  [actual %]
-CSS         ██████░░░░░░░░░░░░░░  [actual %]
-JavaScript  ██████░░░░░░░░░░░░░░  [actual %]
-```
+**Project Focus**
+- Coffee-shop branding and presentation.
+- Organized page sections and product-focused content.
+- Responsive layout and visual consistency.
+- User-friendly browsing experience.
 
-[🚀 Live Demo](https://caffeine-cove-omega.vercel.app/) · [💻 Source Code](https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove)
+**Technology Stack**
 
----
-
-## 3. Peak Fitness — Gym & Fitness Website
-
-A fitness website built to present gym services and create an energetic, accessible browsing experience.
-
-**Highlights**
-- Fitness-focused visual design.
-- Responsive sections and layouts.
-- Service and content presentation.
-- Clear calls to action.
-
-**Technologies:** HTML · CSS · JavaScript *(confirm against repository)*
-
-**Language Distribution**
-```text
-HTML        ████████████░░░░░░░░  [actual %]
-CSS         ██████░░░░░░░░░░░░░░  [actual %]
-JavaScript  ██████░░░░░░░░░░░░░░  [actual %]
-```
-
-[🚀 Live Demo](https://gym-liart-two.vercel.app/) · [💻 Source Code](https://github.com/zcvbnklpoiu-netizen/gym)
+See the repository's language breakdown and source files for the exact technologies used.
 
 ---
 
-## 4. Apple Store — E-commerce Website
+## 03. Peak Fitness — Fitness Website
 
-An Apple-inspired storefront showcasing products with a clean, minimal shopping interface.
+<p align="center">
+  <a href="https://gym-liart-two.vercel.app/">
+    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://gym-liart-two.vercel.app/" width="100%" alt="Peak Fitness live website preview"/>
+  </a>
+</p>
 
-**Highlights**
-- Product-focused layouts.
-- Minimal visual design.
-- Responsive product presentation.
-- E-commerce-style browsing experience.
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen/gym">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+  </a>
+  <a href="https://gym-liart-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
+  </a>
+</p>
 
-**Technologies:** HTML · CSS · JavaScript *(confirm against repository)*
+A fitness-focused website built to present a gym brand, training experience, and fitness-related content in a clear, engaging interface.
 
-**Language Distribution**
-```text
-HTML        ████████████░░░░░░░░  [actual %]
-CSS         ██████░░░░░░░░░░░░░░  [actual %]
-JavaScript  ██████░░░░░░░░░░░░░░  [actual %]
-```
+**Project Focus**
+- Fitness-oriented visual design.
+- Clear content hierarchy.
+- Responsive layouts.
+- Strong presentation of services and training information.
 
-[🚀 Live Demo](https://apple-store-gray-delta.vercel.app/) · [💻 Source Code](https://github.com/zcvbnklpoiu-netizen/Apple-store)
+**Technology Stack**
+
+See the repository's language breakdown and source files for the exact technologies used.
 
 ---
 
-## 5. VELORA — Fashion E-commerce
+## 04. Apple Store — E-commerce Interface
 
-A fashion storefront designed around product presentation, brand identity, and a modern shopping experience.
+<p align="center">
+  <a href="https://apple-store-gray-delta.vercel.app/">
+    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://apple-store-gray-delta.vercel.app/" width="100%" alt="Apple Store live website preview"/>
+  </a>
+</p>
 
-**Highlights**
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen/Apple-store">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+  </a>
+  <a href="https://apple-store-gray-delta.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
+  </a>
+</p>
+
+An Apple-inspired storefront project focused on presenting products through a clean, modern shopping interface.
+
+**Project Focus**
+- Product presentation and visual hierarchy.
+- Minimal, product-focused design.
+- Responsive interface.
+- E-commerce UI development practice.
+
+**Technology Stack**
+
+See the repository's language breakdown and source files for the exact technologies used.
+
+---
+
+## 05. VELORA — Fashion E-commerce
+
+<p align="center">
+  <a href="https://velora-lilac-eight.vercel.app/">
+    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://velora-lilac-eight.vercel.app/" width="100%" alt="VELORA live website preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen/VELORA">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+  </a>
+  <a href="https://velora-lilac-eight.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
+  </a>
+</p>
+
+A fashion storefront concept built around a polished brand identity and an online-shopping presentation.
+
+**Project Focus**
 - Fashion-oriented visual identity.
-- Product presentation and browsing.
-- Consistent typography and layout.
-- Responsive interface design.
+- Product-centered layouts.
+- Consistent styling and responsive design.
+- Modern storefront presentation.
 
-**Technologies:** HTML · CSS · JavaScript *(confirm against repository)*
+**Technology Stack**
 
-**Language Distribution**
-```text
-HTML        ████████████░░░░░░░░  [actual %]
-CSS         ██████░░░░░░░░░░░░░░  [actual %]
-JavaScript  ██████░░░░░░░░░░░░░░  [actual %]
-```
-
-[🚀 Live Demo](https://velora-lilac-eight.vercel.app/) · [💻 Source Code](https://github.com/zcvbnklpoiu-netizen/VELORA)
+See the repository's language breakdown and source files for the exact technologies used.
 
 ---
 
-## 6. Al-Quds Pergolas — Business Website
+## 06. Al-Quds Pergolas — Pergola Showcase
 
-A project showcase website for pergolas and outdoor design, built to present installations and services professionally.
+<p align="center">
+  <a href="https://al-quds-mu.vercel.app/">
+    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://al-quds-mu.vercel.app/" width="100%" alt="Al-Quds Pergolas live website preview"/>
+  </a>
+</p>
 
-**Highlights**
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen/Pergolat">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+  </a>
+  <a href="https://al-quds-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live demo"/>
+  </a>
+</p>
+
+A responsive showcase website for pergola projects, designed to present completed work and highlight the business's visual identity.
+
+**Key Features**
 - Project gallery and visual showcase.
 - Sticky navigation.
-- Scroll-reveal effects and hero movement.
+- Reveal effects and hero movement.
 - Back-to-top interaction.
-- Responsive layout.
+- Responsive presentation for visitors.
 
-**Technologies:** HTML · CSS · JavaScript *(confirm against repository)*
+**Technology Stack**
 
-**Language Distribution**
-```text
-HTML        ████████████░░░░░░░░  [actual %]
-CSS         ██████░░░░░░░░░░░░░░  [actual %]
-JavaScript  ██████░░░░░░░░░░░░░░  [actual %]
-```
-
-[🚀 Live Demo](https://al-quds-mu.vercel.app/) · [💻 Source Code](https://github.com/zcvbnklpoiu-netizen/Pergolat)
+See the repository's language breakdown and source files for the exact technologies used.
 
 ---
 
-## 7. E-commerce Platform
+## 07. E-commerce Web Project
 
-An online storefront project focused on product browsing and common e-commerce interface patterns.
+<p align="center">
+  <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
+    <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://zcvbnklpoiu-netizen.github.io/E-commerce/" width="100%" alt="E-commerce live website preview"/>
+  </a>
+</p>
 
-**Highlights**
-- Product listing and presentation.
-- Reusable interface sections.
-- Responsive layouts.
-- Shopping experience UI.
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+  </a>
+  <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">
+    <img src="https://img.shields.io/badge/GitHub_Pages-Live_Demo-222222?style=for-the-badge&logo=github" alt="Live demo"/>
+  </a>
+</p>
 
-**Technologies:** Check the repository for the exact framework and libraries.
+An e-commerce project created to practice storefront structure, product presentation, and the building blocks of an online shopping experience.
 
-**Language Distribution**
-```text
-JavaScript  ████████████░░░░░░░░  [actual %]
-CSS         ██████░░░░░░░░░░░░░░  [actual %]
-HTML        ██░░░░░░░░░░░░░░░░░░  [actual %]
-```
+**Project Focus**
+- Storefront layout and product presentation.
+- Interface organization.
+- Web development fundamentals.
+- Responsive UI practice.
 
-[🌐 Live Demo](https://zcvbnklpoiu-netizen.github.io/E-commerce/) · [💻 Source Code](https://github.com/zcvbnklpoiu-netizen/E-commerce)
+**Technology Stack**
+
+See the repository's language breakdown and source files for the exact technologies used.
 
 ---
 
-## 8. Bank System — C++
+## 08. Bank System — C++
 
-A college programming project implementing core banking workflows using C++.
+A university project developed as part of programming fundamentals, focusing on structured programming and banking operations.
 
-**Highlights**
-- User authentication workflow.
+**Key Features**
+- User authentication.
 - Banking transactions.
 - Loan-related operations.
 - Currency operations.
-- Structured programming and input validation.
+- Account management using structured programming concepts.
 
-**Technologies:** C++ · Structured Programming · Programming Fundamentals
+**Technology Stack**
 
-**Language Distribution**
-```text
-C++         ████████████████████  [actual %]
-```
+`C++` · Structured Programming · Programming Fundamentals
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Overview
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/zcvbnklpoiu-netizen)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zcvbnklpoiu-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zcvbnklpoiu-netizen&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zcvbnklpoiu-netizen)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zcvbnklpoiu-netizen&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building maintainable full-stack applications.
-- Improving backend architecture and API design.
-- Strengthening database and authentication workflows.
-- Creating polished, responsive frontend experiences.
-- Learning secure development practices.
+- Strengthening my full-stack development skills.
+- Building maintainable backend services and REST APIs.
+- Improving database design and authentication workflows.
+- Developing polished frontend experiences.
+- Expanding my portfolio with practical, real-world applications.
+- Exploring secure web development and cybersecurity fundamentals.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/zcvbnklpoiu-netizen">
+    <img src="https://img.shields.io/badge/GitHub-Mohamed_Ayman-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to explore my repositories and projects.
+</p>
+
 
