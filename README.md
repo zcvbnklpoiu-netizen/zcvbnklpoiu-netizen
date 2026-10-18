@@ -330,8 +330,6 @@ My work includes responsive frontend experiences, React and Next.js applications
 
 - **GitHub:** [zcvbnklpoiu-netizen](https://github.com/zcvbnklpoiu-netizen)
 - **LinkedIn:** [Mohamed Ayman](https://www.linkedin.com/in/mohamed-ayman-b78255373)
-- **Freelancer:** Profile in progress / available through Freelancer.
-- **Upwork:** Profile in progress / available through Upwork.
 
 ---
 
