@@ -43,83 +43,175 @@ My public work ranges from static product and business showcases to React interf
 
 > The stack above is based on the code and documentation in my public repositories; it is not an indication of equal proficiency in every technology.
 
+---
+
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> Seven verified public projects are shown below. Each project occupies its own full-width section with a real project image, source link, live demo link where available, and an honest status label. GitHub READMEs do not support custom CSS or JavaScript hover effects, so the call-to-action buttons use reliable links and Shields.io badges instead.
 
-### MediBook — Appointment Platform
+### 01 · MediBook — Full-Stack Appointment Platform
 
 <a href="https://appointment-app-jssf.vercel.app/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/appointment-app/main/public/ClinicHero.png" alt="MediBook clinic platform preview" width="100%" /></a>
 
 A multi-doctor clinic directory and appointment application built with the Next.js App Router. It includes public doctor and specialty pages, appointment availability, account workflows, dashboards, and server-side database operations.
 
-**Stack:** Next.js · React · TypeScript · Prisma · Node.js · Better Auth
+**Key features**
 
-**Status:** In progress — production database and deployment configuration are documented in the repository.
+- Doctor profiles, specialties, availability, and booking flows.
+- Patient, doctor, and administrator dashboard areas.
+- Server-side route handlers, validation, authentication, and database access.
+- Prisma data layer with local SQLite support and PostgreSQL production preparation.
 
-<a href="https://appointment-app-jssf.vercel.app/">Live demo</a> · <a href="https://github.com/zcvbnklpoiu-netizen/appointment-app">Source code</a>
+**Stack:** `Next.js` · `React` · `TypeScript` · `Prisma` · `Node.js` · `Better Auth`
 
-</td>
-<td width="50%" valign="top">
+**Status:** In progress — the repository documents the remaining production database and deployment configuration.
 
-### React E-Commerce
+<p>
+  <a href="https://appointment-app-jssf.vercel.app/"><img src="https://img.shields.io/badge/View%20Live%20Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="View MediBook live demo" /></a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/appointment-app"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View MediBook source code" /></a>
+</p>
+
+---
+
+### 02 · React E-Commerce — Shopping Interface
 
 <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/E-commerce/main/src/assets/images/banner1.jpg" alt="React E-Commerce interface preview" width="100%" /></a>
 
 A client-side shopping experience focused on product browsing, search, cart and wishlist interactions, checkout UI, and a dashboard interface.
 
-**Stack:** React · JavaScript · React Router · Context API · Vite · Local Storage
+**Key features**
 
-**Status:** Prototype — login, admin, and checkout flows are front-end demonstrations without secure backend persistence or payment processing.
+- Product browsing by category and search.
+- Cart and wishlist state managed with Context API.
+- Checkout, login, registration, and admin dashboard interfaces.
+- Responsive React UI with local storage demonstrations.
 
-<a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/">Live demo</a> · <a href="https://github.com/zcvbnklpoiu-netizen/E-commerce">Source code</a>
+**Stack:** `React` · `JavaScript` · `React Router` · `Context API` · `Vite` · `Local Storage`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Status:** Prototype — authentication, admin, and checkout flows are front-end demonstrations without secure backend persistence or payment processing.
 
-### VELORA — Watch Showcase
+<p>
+  <a href="https://zcvbnklpoiu-netizen.github.io/E-commerce/"><img src="https://img.shields.io/badge/View%20Live%20Demo-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View React E-Commerce live demo" /></a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/E-commerce"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View React E-Commerce source code" /></a>
+</p>
+
+---
+
+### 03 · Al-Quds Pergolas — Business Showcase
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/Pergolat/main/images/about.png" alt="Al-Quds Pergolas project preview" width="100%" /></a>
+
+A responsive business website presenting pergola and outdoor-design work through project galleries, service information, and interactive visual elements.
+
+**Key features**
+
+- Project gallery and visual showcase.
+- Sticky navigation, hero movement, and reveal effects.
+- Back-to-top interaction and responsive layouts.
+
+**Stack:** `HTML5` · `CSS3` · `JavaScript`
+
+**Status:** Completed showcase project.
+
+<p>
+  <a href="https://zcvbnklpoiu-netizen.github.io/Pergolat/"><img src="https://img.shields.io/badge/View%20Live%20Demo-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Al-Quds Pergolas live demo" /></a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/Pergolat"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View Al-Quds Pergolas source code" /></a>
+</p>
+
+---
+
+### 04 · Apple Store — Product Presentation
+
+<a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/Apple-store/main/images/home.png" alt="Apple Store interface preview" width="100%" /></a>
+
+An Apple-inspired storefront interface presenting products through clean layouts, responsive sections, sticky navigation, and visual interactions.
+
+**Key features**
+
+- Product presentation and iPhone sections.
+- Sticky header behavior and scroll reveal effects.
+- Responsive front-end layout.
+
+**Stack:** `HTML5` · `CSS3` · `JavaScript`
+
+**Status:** Completed showcase project. This is a front-end interface and does not claim payment processing, backend services, or database integration.
+
+<p>
+  <a href="https://zcvbnklpoiu-netizen.github.io/Apple-store/"><img src="https://img.shields.io/badge/View%20Live%20Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Apple Store live demo" /></a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/Apple-store"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View Apple Store source code" /></a>
+</p>
+
+---
+
+### 05 · VELORA — Luxury Watch Showcase
 
 <a href="https://zcvbnklpoiu-netizen.github.io/VELORA/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/VELORA/main/images/hero.png" alt="VELORA luxury watch showcase preview" width="100%" /></a>
 
-A responsive luxury-watch presentation site built around product galleries, clean layouts, hover interactions, and visual storytelling.
+A luxury-inspired watch showcase built around product presentation, gallery layouts, responsive styling, and interactive visual details.
 
-**Stack:** HTML5 · CSS3 · JavaScript
+**Key features**
+
+- Luxury watch product showcase and gallery.
+- Responsive presentation layout.
+- Hover interactions and smooth visual animations.
+
+**Stack:** `HTML5` · `CSS3` · `JavaScript`
 
 **Status:** Completed showcase project.
 
-<a href="https://zcvbnklpoiu-netizen.github.io/VELORA/">Live demo</a> · <a href="https://github.com/zcvbnklpoiu-netizen/VELORA">Source code</a>
+<p>
+  <a href="https://zcvbnklpoiu-netizen.github.io/VELORA/"><img src="https://img.shields.io/badge/View%20Live%20Demo-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View VELORA live demo" /></a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/VELORA"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View VELORA source code" /></a>
+</p>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### Caffeine Cove — Coffee Shop UI
+### 06 · Caffeine Cove — Coffee Shop Experience
 
 <a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/Caffeine-Cove/main/images/hero-image.jpg" alt="Caffeine Cove coffee shop preview" width="100%" /></a>
 
-A responsive coffee-shop experience with product presentation, mobile navigation, reveal motion, parallax-style details, and interactive visual effects.
+A modern coffee-shop website focused on brand presentation and product discovery, with responsive sections and visual interactions.
 
-**Stack:** HTML5 · CSS3 · JavaScript
+**Key features**
+
+- Coffee shop showcase and product gallery.
+- Mobile-friendly navigation and smooth scrolling.
+- Reveal animations, hero parallax, image zoom, and interactive card effects.
+
+**Stack:** `HTML5` · `CSS3` · `JavaScript`
 
 **Status:** Completed showcase project.
 
-<a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/">Live demo</a> · <a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove">Source code</a>
+<p>
+  <a href="https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/"><img src="https://img.shields.io/badge/View%20Live%20Demo-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Caffeine Cove live demo" /></a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View Caffeine Cove source code" /></a>
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-## More projects
+### 07 · Peak Fitness — Fitness Website
 
-| Project | What it demonstrates | Status | Links |
-| --- | --- | --- | --- |
-| [Apple Store](https://github.com/zcvbnklpoiu-netizen/Apple-store) | Apple-inspired product presentation, sticky navigation, responsive layout, and scroll interactions. | Completed showcase | [Demo](https://zcvbnklpoiu-netizen.github.io/Apple-store/) |
-| [Al-Quds Pergolas](https://github.com/zcvbnklpoiu-netizen/Pergolat) | Business showcase, project gallery, sticky navigation, reveal effects, and responsive design. | Completed showcase | [Demo](https://zcvbnklpoiu-netizen.github.io/Pergolat/) |
-| [Peak Fitness](https://github.com/zcvbnklpoiu-netizen/gym) | Fitness services, membership plans, reviews, and front-end registration UI. | Prototype UI | [Demo](https://zcvbnklpoiu-netizen.github.io/gym/) |
-| [Portfolio website](https://github.com/zcvbnklpoiu-netizen/portfolio) | Dark responsive portfolio for presenting front-end work and project links. | Portfolio source | [Repository](https://github.com/zcvbnklpoiu-netizen/portfolio) |
+<a href="https://zcvbnklpoiu-netizen.github.io/gym/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/gym/main/images/hero.png" alt="Peak Fitness website preview" width="100%" /></a>
+
+A responsive fitness website presenting training services and membership information through a structured, visual layout.
+
+**Key features**
+
+- Fitness services and membership-plan presentation.
+- Reviews, content sections, and responsive navigation.
+- Front-end membership registration interface.
+- Typing effect, loading animation, and animated counters.
+
+**Stack:** `HTML5` · `CSS3` · `JavaScript`
+
+**Status:** Prototype UI — the registration page is a front-end interface without backend persistence or server-side registration.
+
+<p>
+  <a href="https://zcvbnklpoiu-netizen.github.io/gym/"><img src="https://img.shields.io/badge/View%20Live%20Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Peak Fitness live demo" /></a>
+  <a href="https://github.com/zcvbnklpoiu-netizen/gym"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View Peak Fitness source code" /></a>
+</p>
+
+---
 
 ## GitHub activity
 
