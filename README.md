@@ -2,9 +2,9 @@
 
 # Mohamed Ayman
 
-### Full-Stack Web Developer · Computer Science & AI Student
+### Full-Stack Web Developer · Cybersecurity Student
 
-Building responsive interfaces and practical web applications with React, Next.js, TypeScript, and modern JavaScript.
+Cybersecurity student at Obour University, expected to graduate in 2029, building responsive interfaces and practical full-stack applications with React, Next.js, TypeScript, and modern JavaScript.
 
 <p>
   <a href="https://github.com/zcvbnklpoiu-netizen?tab=repositories"><img src="https://img.shields.io/badge/Explore%20repositories-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="Explore repositories" /></a>
@@ -17,14 +17,15 @@ Building responsive interfaces and practical web applications with React, Next.j
 
 ## About me
 
-I'm Mohamed Ayman, a Computer Science & Artificial Intelligence student at **Obour University for Science and Technology (OUST)** and a developer focused on building useful, responsive web experiences.
+I'm Mohamed Ayman, a Computer Science & Artificial Intelligence student specializing in **Cybersecurity** at **Obour University for Science and Technology (OUST)**, expected to graduate in 2029. Alongside my studies, I build useful, responsive web experiences and practice secure development habits.
 
 My public work ranges from static product and business showcases to React interfaces and a full-stack appointment platform. I use projects to practice component-based UI, application architecture, API integration, authentication, database workflows, and maintainable development habits.
 
-- **Current direction:** Full-stack web development with React and Next.js.
+- **Current direction:** Full-stack web development with React and Next.js, supported by a growing Cybersecurity foundation.
 - **Frontend:** Responsive UI, reusable components, routing, client-side state, and interaction design.
 - **Backend:** Node.js, REST API routes, authentication flows, and server-side logic in relevant projects.
 - **Data:** Prisma with SQLite for local development and PostgreSQL preparation for production in the appointment platform.
+- **Education:** Bachelor's degree in Cybersecurity, 2025–2029.
 - **Open to:** Front-end and full-stack opportunities, internships, freelance projects, and collaboration.
 
 ## Tech stack
