@@ -52,7 +52,7 @@ My public work ranges from static product and business showcases to React interf
 
 ### 01 · MediBook — Full-Stack Appointment Platform
 
-<a href="https://appointment-app-jssf.vercel.app/"><img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/appointment-app/main/public/ClinicHero.png" alt="MediBook clinic platform preview" width="100%" /></a>
+<img src="https://raw.githubusercontent.com/zcvbnklpoiu-netizen/appointment-app/main/public/ClinicHero.png" alt="MediBook clinic platform preview" width="100%" />
 
 A multi-doctor clinic directory and appointment application built with the Next.js App Router. It includes public doctor and specialty pages, appointment availability, account workflows, dashboards, and server-side database operations.
 
@@ -68,7 +68,7 @@ A multi-doctor clinic directory and appointment application built with the Next.
 **Status:** In progress — the repository documents the remaining production database and deployment configuration.
 
 <p>
-  <a href="https://appointment-app-jssf.vercel.app/"><img src="https://img.shields.io/badge/View%20Live%20Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="View MediBook live demo" /></a>
+  <em>Live deployment not currently verified</em>
   <a href="https://github.com/zcvbnklpoiu-netizen/appointment-app"><img src="https://img.shields.io/badge/View%20Source%20Code-0b1220?style=for-the-badge&logo=github&logoColor=58d6c5" alt="View MediBook source code" /></a>
 </p>
 
