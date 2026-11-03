@@ -24,7 +24,7 @@ My public work ranges from static product and business showcases to React interf
 - **Current direction:** Full-stack web development with React and Next.js.
 - **Frontend:** Responsive UI, reusable components, routing, client-side state, and interaction design.
 - **Backend:** Node.js, REST API routes, authentication flows, and server-side logic in relevant projects.
-- **Data:** Prisma with SQLite for local development and PostgreSQL preparation for production in the appointment platform.
+- **Data:** MongoDB, Prisma, SQLite for local development, and PostgreSQL preparation for production in the appointment platform.
 - **Education:** Bachelor's degree in Computer Science & Artificial Intelligence, 2025–2029.
 - **Open to:** Front-end and full-stack opportunities, internships, freelance projects, and collaboration.
 
@@ -39,7 +39,7 @@ My public work ranges from static product and business showcases to React interf
 | Languages | JavaScript, TypeScript, HTML5, CSS3, C++ |
 | Frontend | React, Next.js App Router, React Router, Context API, Vite, responsive design |
 | Backend & APIs | Node.js, Next.js route handlers, REST APIs, Express.js |
-| Data & auth | Prisma, SQLite, PostgreSQL preparation, Better Auth, JWT, bcryptjs |
+| Data & auth | MongoDB, Prisma, SQLite, PostgreSQL preparation, Better Auth, JWT, bcryptjs |
 | Tools | Git, GitHub, npm, VS Code |
 
 > The stack above is based on the code and documentation in my public repositories; it is not an indication of equal proficiency in every technology.
